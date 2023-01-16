@@ -1,16 +1,16 @@
 title: Raj Movva
-url: "https://ankitsultana.com"
+url: "rmovva.github.io"
 baseurl: ""
 
 markdown: kramdown
 remote_theme: ankitsultana/researcher@gem
-#ins_logo: "./bits-logo.png"
+# ins_logo: "./bits-logo.png"
 
-tracking_id: UA-69243698-4
+# tracking_id: UA-69243698-4
 
 footer: yes
-footer_url: "https://github.com/ankitsultana/ankitsultana.github.io"
-footer_text: "This is a custom-built theme for Jekyll. Please report any issues on GitHub."
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Webpage theme by Ankit Sultana."
 
 favicon: true
 favicon_location: "images/favicon.png"
@@ -20,9 +20,11 @@ sass:
   sass_dir: _sass
 
 nav:
-  - name: "About"
+  - name: "about"
     link: "/"
-  - name: "Blog"
+  - name: "publications"
+    link: "/research"
+  - name: "blog"
     link: "/blog"
-  - name: "Reading"
-    link: "/books"
+  - name: "cv"
+    link: "/cv.pdf
