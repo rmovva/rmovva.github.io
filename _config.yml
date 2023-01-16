@@ -3,6 +3,7 @@ url: "https://ankitsultana.com"
 baseurl: ""
 
 markdown: kramdown
+remote_theme: ankitsultana/researcher@gem
 #ins_logo: "./bits-logo.png"
 
 tracking_id: UA-69243698-4
