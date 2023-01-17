@@ -1,6 +1,6 @@
 title: Rajiv Movva
 url: "rmovva.github.io"
-baseurl: ""
+baseurl: "/"
 
 markdown: kramdown
 remote_theme: ankitsultana/researcher@gem

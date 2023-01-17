@@ -1,19 +1,15 @@
 @import "vars";
 
-@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
-// @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+JP:wght@300;400&family=Source+Sans+Pro:wght@300;400&display=swap');
-// @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+JP:wght@300;400&family=Open+Sans:wght@300;400&family=Source+Sans+Pro:wght@300;400&display=swap');
-// @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Open+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
-// @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700');
 
 @import "typography";
 @import "tables";
 
 
-// Noto Sans. 
-$body-font: "Noto Sans";
-$nav-font: "Noto Sans";
+// Alegreya 
+$body-font: "Alegreya";
+$nav-font: "Alegreya";
 
 /*
  * Basic
@@ -23,12 +19,12 @@ html {
     height: 100%;
     margin: 0;
     padding: 0;
-    background-color: #fffff8;
-    // color: #fff;
+    background-color: #f8f4ff;
 }
 body {
-    margin: 0;
-    font-family: $body-font;
+    width: 90%;
+    margin: auto;
+    font-family: $body-font, serif;
     height: 100%;
 }
 a {
@@ -51,7 +47,7 @@ hr {
 
 #author-name {
     font-size: 30px;
-    color: #272727;
+    color: #313a3d;
     display: inline-block;
     font-weight: bolder;
 }
