@@ -2,8 +2,6 @@
 layout: main
 ---
 
-## About
-
 <img class="profile-picture" src="images/profile.jpg">
 
 Hi, I’m Raj, a CS PhD student at Cornell Tech in NYC. I work on developing responsible, human-centered AI. Advised by Profs. Emma Pierson and Nikhil Garg, my recent focuses have been measuring social discrimination and improving health equity with machine learning.
