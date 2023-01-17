@@ -10,7 +10,7 @@ summary: How I've made my pies, breads, and cookies easier and/or yummier.
 
 I caught the baking bug in the fall of 2021, when it seemed like every other day I'd find inspiration to make something new (thanks, Instagram Reels). Specific recipes and ingredients come and go with the seasons and cravings, but there are a few great techniques that I've found myself returning to again and again. I wanted to share three simple methods that have dramatically improved entire categories of my baked goods (pies/galettes, enriched breads, and cookies, respectively). 
 
-{{< imgproc img="cardamom.jpg" cmd="noproc" opt="x" relwidth="60" alttext="Cardamom buns." >}}  
+<img src="baking-tips/cardamom.jpg" width="500px" alt="Cardamom buns." >}}  
 *Cardamom buns made with tangzhong, one of the featured techniques.*
 
 ### 1. High-butter pie crusts for consistent, no-fuss flakiness
