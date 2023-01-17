@@ -1,6 +1,7 @@
 @import "vars";
 
-@import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700');
 
 @import "typography";
@@ -8,7 +9,7 @@
 
 
 // Alegreya 
-$body-font: "Alegreya";
+$body-font: "Alegreya Sans";
 $nav-font: "Alegreya";
 
 /*
@@ -24,7 +25,7 @@ html {
 body {
     width: 100%;
     margin: auto;
-    font-family: $body-font, sans-serif;
+    font-family: $body-font;
     height: 100%;
     font-weight: 300;
 }

@@ -3,14 +3,14 @@ blog_post: true
 layout: default
 date: 2020-03-26T22:00:00.000+00:00
 title: Calling Out COVID-19 Napkin Math
-hero_image: "./covid-math/ipad.jpg"
+<!-- hero_image: "covid-math/ipad.jpg" -->
 summary: A survey of flawed statistics in early COVID-19 reporting.
 
 ---
 
 <br/><br/>
 
-<img src="/_posts/covid-math/ipad.jpg" alt="COVID 'napkin math'.">
+<img src="_posts/covid-math/ipad.jpg" width=60% alt="COVID 'napkin math'.">
 
 Back home from college and stuck in quarantine, I’ve been reading too many takes on the coronavirus. Trump’s populist rambling at those daily White House briefings doesn’t do much to inspire confidence, so many Americans seek truth elsewhere. Unfortunately, good reporting has been drowned in a sea of [armchair epidemiology](https://medium.com/@noahhaber/flatten-the-curve-of-armchair-epidemiology-9aa8cf92d652). Now more than ever, it’s dishonest and frankly dangerous for influential scientists to blindly opine on COVID-19. Worse, many have done so under the guise of numerical objectivity, offering tenuous ‘napkin math’ that rests on shaky empirical grounding.
 

@@ -4,7 +4,7 @@ layout: main
 
 <img class="profile-picture" src="images/profile.jpg">
 
-Hi, I’m Raj, a CS PhD student at Cornell Tech in NYC. I work on developing responsible, human-centered AI. Advised by Profs. Emma Pierson and Nikhil Garg, my recent focuses have been measuring social discrimination and improving health equity with machine learning.
+Hi, I’m Raj, a CS PhD student at Cornell Tech in NYC. I work on developing responsible, human-centered AI. Advised by Profs. [Emma Pierson](https://www.cs.cornell.edu/~emmapierson/) and [Nikhil Garg](https://gargnikhil.com/), my recent focuses have been measuring social discrimination and improving health equity with machine learning.
 
 Previously, I studied CS at MIT with minors in Biology and Women’s & Gender Studies. While there, I worked with Prof. Catherine D’Ignazio and student Harini Suresh at the [Data + Feminism Lab](https://dataplusfeminism.mit.edu/). Collaborating with activist groups, we co-designed NLP models to support the difficult labor of tracking gender-based violence ([Best Paper, FAccT 2022](https://dl.acm.org/doi/10.1145/3531146.3533132)). The project taught me that naive ML systems often fail at the margins – it takes effort and care to design models for specific, intersectional contexts.
 
