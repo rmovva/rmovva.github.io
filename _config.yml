@@ -1,4 +1,4 @@
-title: Raj Movva
+title: Rajiv Movva
 url: "rmovva.github.io"
 baseurl: ""
 
@@ -10,7 +10,7 @@ remote_theme: ankitsultana/researcher@gem
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
-footer_text: "Webpage theme by Ankit Sultana."
+footer_text: "Webpage theme from Ankit Sultana."
 
 favicon: true
 favicon_location: "images/favicon.ico"
@@ -24,7 +24,7 @@ nav:
     link: "/"
   - name: "publications"
     link: "/research"
-  # - name: "blog"
-  #   link: "/blog"
+  - name: "blog"
+    link: "/blog"
   - name: "cv"
     link: "/cv.pdf"

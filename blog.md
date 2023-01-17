@@ -17,6 +17,9 @@ layout: default
             <span>{{ post.title }}</span>
         </a>
         </h4>
+        <div class="post-summary">
+        {{ post.summary }}
+        </div>
     </li>
     {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
