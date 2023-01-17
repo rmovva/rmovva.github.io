@@ -16,11 +16,16 @@
         font-family: "Alegreya Sans";
     }
     .main-page-list small {
-        font-weight: lighter;
+        font-size: 18px;
         font-family: "Alegreya Sans";
     }
     .una {
         text-decoration: none;
+    }
+    .post-summary {
+        font-size: 16px;
+        font-family: "Alegreya Sans";
+        font-weight: 400;
     }
     ol {
         counter-reset: list;
