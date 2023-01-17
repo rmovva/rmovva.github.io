@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: default
 ---
 
 <img class="profile-picture" src="images/profile.jpg">
