@@ -13,7 +13,7 @@ footer_url: "https://github.com/ankitsultana"
 footer_text: "Webpage theme by Ankit Sultana."
 
 favicon: true
-favicon_location: "images/favicon.png"
+favicon_location: "images/favicon.ico"
 
 sass:
   style: compressed
@@ -24,7 +24,7 @@ nav:
     link: "/"
   - name: "publications"
     link: "/research"
-  - name: "blog"
-    link: "/blog"
+  # - name: "blog"
+  #   link: "/blog"
   - name: "cv"
     link: "/cv.pdf
