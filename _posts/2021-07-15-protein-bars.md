@@ -2,7 +2,7 @@
 blog_post: true
 layout: default
 date: 2021-07-15T12:06:00Z
-hero_image: "/content/posts/protein-bars/bars.jpg"
+hero_image: "/images/protein-bars/bars.jpg"
 title: Reviewing Protein Bars
 summary: Expressing some stronger-than-necessary opinions on protein bars.
 
@@ -17,7 +17,7 @@ In case you just want the winning picks:
 - The bars I’ll get when I want some fun variety: [PowerCrunch Protein Energy Bar](https://www.amazon.com/Power-Crunch-Protein-Energy-Peanut/dp/B000FRXJ6A), [RXBAR](https://www.amazon.com/RXBAR-Protein-Peanut-Butter-Berries/dp/B07D8Q6CZ1/)
 - My favorite protein powder, with good flavors and macros, and an excellent price (with a discount code, which you can find anywhere): [MyProtein Impact Whey Isolate](https://us.myprotein.com/sports-nutrition/impact-whey-isolate/10852482.html)
 
-{{< imgproc img="bars.jpg" cmd="noproc" opt="x" relwidth="60" alttext="Some protein bars." >}}
+<img class="standard" src="/images/protein-bars/bars.jpg" alt="Some protein bars." > 
 
 ### Protein Bars
 

@@ -2,7 +2,7 @@
 blog_post: true
 layout: default
 date: 2021-06-28T01:37:00Z
-hero_image: "/content/posts/lifting-data/all_lifts.png"
+hero_image: "/images/lifting-data/all_lifts.png"
 title: Visualizing 2.5 Years of Lifting Weights
 summary: Indulging myself with some plots to track improvements in my strength.
 
@@ -18,7 +18,7 @@ Like most recreational lifters, I rarely actually do single-rep sets; most of my
 Finally, let’s look at some data! Here’s a birds-eye view plot that shows my progress on the squat, bench, deadlift, and overhead press (OHP) since Jan 2019 (I started these exercises around Sep 2018, but with super beginner weights that I didn’t track). Note that I didn’t have gym access between Sep-Nov 2020 and Jan-Feb 2021 due to COVID, so I couldn’t really do compound lifts. For March-Sep 2020, I was lifting in the home gym that I worked to assemble with my brother, while living back in San Jose, CA at my parents’ house. Since March 2021 I’ve been able to use MIT’s Z center gym again.
 
 
-{{< imgproc img="all_lifts.png" cmd="noproc" opt="x" relwidth="100" alttext="Main compound lift progress." >}}
+<img class="wide" src="/images/lifting-data/all_lifts.png" alt="Main compound lift progress." >  
 
 As expected, I’ve made great progress on the big 3 lifts. However, the timing of this progress has been super asymmetric. Breaking down each lift:
 
@@ -29,13 +29,13 @@ As expected, I’ve made great progress on the big 3 lifts. However, the timing 
 
 As mentioned, that first plot only shows the predicted 1RM of the hardest working set I did on a given day. However, sometimes I would make progress by adding set volume, e.g. doing 2 sets at a weight I could previously only do for 1 set. But that previous plot doesn’t show how many sets I was doing at a predicted 1RM. In these below plots, I use point color to show how many sets I completed. For example, a recent workout where I squatted 210 for 2 sets of 5 reps would correspond to an orange point at a 210\*1.15 = 241 lb predicted 1RM. Here’s the data for the squat (this time only showing since 2019-07, since I wasn’t really tracking set counts before that):
 
-{{< imgproc img="squat_by_set.png" cmd="noproc" opt="x" relwidth="100" alttext="Squat workouts, colored by set count." >}}
+<img class="wide" src="/images/lifting-data/squat_by_set.png" alt="Squat workouts, colored by set count." >  
 
 Some notable things here are the stretch from 2019-07 to 2019-10, when I would only do workouts with 3 sets (green points), apparently (I was running some [Jeff Nippard](https://www.youtube.com/c/JeffNippard/) program). In the stretch after that, I had my one max effort set per week (nSuns program), which brought good results. In that colorful stretch in May/June 2020, I was running the [Smolov Jr](https://www.smolovjr.com/smolov-jr-calculator/) program, which is a crazy high volume program where you start each week with a light 6x6 and end with a heavy 10x3. I made great progress with Smolov, even though I was running it for squat and bench simultaneously, which was pretty challenging. I want to try it again sometime soon. Recently, even though my squat numbers haven’t been steadily jumping, I’ve been doing 2+ sets at weights pretty close to my 1RM, which is something to be happy about.
 
 Here’s the plot for bench:
 
-{{< imgproc img="bench_by_set.png" cmd="noproc" opt="x" relwidth="100" alttext="Squat workouts, colored by set count." >}}
+<img class="wide" src="/images/lifting-data/bench_by_set.png" alt="Bench workouts, colored by set count." >  
 
 Not that much to say here. I’m excited that my tolerance for volume has been pretty high recently though, and I finally feel like I’m ready to hit some new maxes in the near future after several months at a 205-210ish 1RM. The goal is two plates, 225 lbs, by end of summer, which is about a 10-15 lb jump from the current state.
 
@@ -43,7 +43,7 @@ Finally, I was curious about how my “powerlifting total” had progressed over
 
 However, I wanted to now look at how my max strength had progressed. So, for each of {squat, bench, deadlift}, I maintained a running max that was updated at every 2-week interval. I summed these running maxes to plot a cumulative value (orange), offering a sense of what my powerlifting total would’ve been at any given time. Alongside, I also plot the individual running maxes, and also bodyweight (in lbs) so you can get a sense of how strong I was pound-for-pound.
 
-{{< imgproc img="powerlifting_total.png" cmd="noproc" opt="x" relwidth="100" alttext="Squat workouts, colored by set count." >}}
+<img class="wide" src="/images/lifting-data/powerlifting_total.png" alt="Graph of powerlifting total over time." >  
 
 I start the graph at 2019-07, when some noob gains had brought me to a 650 total. I had to make my programming a bit smarter then, but I still had a lot of beginner progress to make. I put on about 100 pounds to my total by the start of 2020, due to strong progress in all three lifts. I added \~50 more pounds up to about 810 from the start of quarantine to the time I went back to Cambridge in Fall 2020, entirely due to squat and bench progress (I was deadlifting conventional at this time, so no progress on my max). Finally, I’ve added another \~40 pounds with my work in the last few months, thanks mostly to getting back into sumo deadlifting, and a bit of squat work as well. Meanwhile, my bodyweight jumped from 130 to 140 after a Fall 2019 bulk, and I’m still in the low 140s (though I hit 150 briefly thanks to my IAP 2020 Italy trip). Overall, my body composition has improved pretty significantly, as I’ve stayed essentially the same weight while putting on quite a bit of strength and muscle. I’m fairly happy with my 850 total at \~142 lbs, but my longer-term goal is to hit a 1000 pound total at <= 150 lbs by the time I graduate MIT (June 2022).
 
