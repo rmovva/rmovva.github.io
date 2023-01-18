@@ -8,9 +8,9 @@ summary: A survey of flawed statistics in early COVID-19 reporting.
 
 ---
 
-<img class="standard" src="/images/covid-math/ipad.jpg" alt="COVID 'napkin math'." >  
-
 Back home from college and stuck in quarantine, I’ve been reading too many takes on the coronavirus. Trump’s populist rambling at those daily White House briefings doesn’t do much to inspire confidence, so many Americans seek truth elsewhere. Unfortunately, good reporting has been drowned in a sea of [armchair epidemiology](https://medium.com/@noahhaber/flatten-the-curve-of-armchair-epidemiology-9aa8cf92d652). Now more than ever, it’s dishonest and frankly dangerous for influential scientists to blindly opine on COVID-19. Worse, many have done so under the guise of numerical objectivity, offering tenuous ‘napkin math’ that rests on shaky empirical grounding.
+
+<img class="standard" src="/images/covid-math/ipad.jpg" alt="COVID 'napkin math'." >  
 
 Let’s start with [this opinion piece](https://www.statnews.com/2020/03/17/a-fiasco-in-the-making-as-the-coronavirus-pandemic-takes-hold-we-are-making-decisions-without-reliable-data/) in Stat News by Dr. John Ioannidis, a professor of medicine at Stanford. Dr. Ioannidis opens the piece by arguing that coronavirus statistics – e.g. the case fatality rate (CFR) – are hard to infer from current data. He correctly calls the widely publicized 3.4% CFR estimate (deaths / confirmed cases) “meaningless”, because confirmed SARS-CoV-2 infections are biased towards those with severe symptoms. However, Ioannidis then proceeds to present his own calculation for the CFR based on the Diamond Princess, calculating that 1% of the infected died (and since everyone was tested, no cases could’ve been missed, in theory). He claims that we can then correct for the age differences between the Diamond Princess and the broader US to get an adjusted death rate of 0.125%. Dr. Ioannidis does mention some caveats here, but numbers are often telephoned along without their asterisks. Three decimal places of precision mean something, especially when they’re written by a Stanford epidemiology professor. But 0.125% is just as “meaningless” of an estimate as 3.4%.
 

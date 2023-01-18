@@ -9,7 +9,7 @@ COLING 2022.
 **Rajiv Movva**, Jinhao Lei, Shayne Longpre, Ajay Gupta, Chris DuBois.  
 
 **Towards Intersectional, Feminist, Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection.**  
-FAccT 2022, <span style="color:green">**Best Paper**</span>.  
+FAccT 2022, <span style="color:#CC5500">**Best Paper**</span>.  
 Harini Suresh, **Rajiv Movva**, Amelia Dogan, Giulia Taurino, Rahul Bhargava, Catherine D’Ignazio.  
   
 **Studying the Consistency and Composability of Lottery Ticket Pruning Masks.**  
@@ -17,7 +17,7 @@ ICLR Workshop on Science and Engineering of Deep Learning 2021.
 **Rajiv Movva**, Jonathan Frankle, Michael Carbin.  
   
 **Dissecting Lottery Ticket Transformers: Structural and Behavorial Study of Sparse Neural Machine Translation.**  
-BlackboxNLP @ EMNLP 2020, <span style="color:green">**Best Paper**</span>.  
+BlackboxNLP @ EMNLP 2020, <span style="color:#CC5500">**Best Paper**</span>.  
 **Rajiv Movva** and Jason Zhao.  
   
 **Deciphering regulatory DNA sequences and noncoding genetic variants using neural network models of massively parallel reporter assays.**  
