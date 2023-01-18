@@ -10,7 +10,7 @@ remote_theme: ankitsultana/researcher@gem
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
-footer_text: "Webpage theme from Ankit Sultana."
+footer_text: "Website theme from Ankit Sultana."
 
 favicon: true
 favicon_location: "images/favicon.ico"
@@ -22,7 +22,7 @@ sass:
 nav:
   - name: "about"
     link: "/"
-  - name: "publications"
+  - name: "papers"
     link: "/research"
   - name: "blog"
     link: "/blog"

@@ -13,7 +13,7 @@ Sorry--that was unnecessarily combative. I actually think social media posts are
 
 Rather, [this](https://www.cnn.com/2020/06/03/us/amazon-best-sellers-books-race-trnd/index.html) is:
 
-<img class="standard" src="/images/algo-justice/amzn-books.png" alt="Millenial summer reading." >  
+<img class="wide" src="/images/algo-justice/amzn-books.png" alt="Millenial summer reading." >  
 
 I guess millennials decided that writing down their hot takes privately is the only way not to get cancelled (#3), and boomers still love WW2 (#4). But four out of Amazon’s top six bestselling books are about race. That’s pretty cool. For every 1000 people that see your Tweet, maybe one sees your bookshelf, so maybe this is less about virtue signalling and more that non-Black people actually want to educate themselves.
 
