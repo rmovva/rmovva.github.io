@@ -9,8 +9,8 @@ layout: default
 **Combining Compressions for Multiplicative Size Scaling on Natural Language Tasks.**  
 COLING 2022.  
 **Rajiv Movva**, Jinhao Lei, Shayne Longpre, Ajay Gupta, Chris DuBois.  
+_Completed during Apple internship._   
 [[paper]](https://aclanthology.org/2022.coling-1.252/) [[twitter]](https://twitter.com/rajivmovva/status/1539172168269012992)  
-_Completed during Apple internship._  
 
 **Towards Intersectional, Feminist, Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection.**  
 FAccT 2022, <span style="color:#CC5500">**Best Paper!**</span>  
@@ -40,13 +40,15 @@ BlackboxNLP @ EMNLP 2020, <span style="color:#CC5500">**Best Paper!**</span>
 bioRxiv (2022).  
 Corey Nolet, Avantika Lal, Rajesh Ilango, Taurean Dyer, **Rajiv Movva**, John Zedlewski, Johnny Israeli.  
 _Completed during NVIDIA AI internship._  
+[[paper]](https://www.biorxiv.org/content/10.1101/2022.05.26.493607v1.full) 
 
 **Fairness Deconstructed: A Sociotechnical View of 'Fair' Algorithms in Criminal Justice.**  
 arXiv (2021).  
 **Rajiv Movva**.  
 _Final project for WGS.301 Feminist Theory at MIT._  
+[[paper]](https://arxiv.org/abs/2106.13455)
 
 **In-silico Prediction of Synergistic Anti-Cancer Drug Combinations Using Multi-omics Data.**  
 Scientific Reports (2019).  
 Remzi Celebi, Oliver Bear Don’t Walk, **Rajiv Movva**, Semih Alpsoy, Michel Dumontier.  
-
+[[paper]](https://www.nature.com/articles/s41598-019-45236-6)
