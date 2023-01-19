@@ -11,7 +11,7 @@ summary: How I've made my pies, breads, and cookies easier and/or yummier.
 I caught the baking bug in the fall of 2021, when it seemed like every other day I'd find inspiration to make something new (thanks, Instagram Reels). Specific recipes and ingredients come and go with the seasons and cravings, but there are a few great techniques that I've found myself returning to again and again. I wanted to share three simple methods that have dramatically improved entire categories of my baked goods (pies/galettes, enriched breads, and cookies, respectively). 
 
 <img class="standard" src="/images/baking-tips/cardamom.jpg" alt="Cardamom buns." > 
-<p style="font-weight: 400"><center>Cardamom buns made with tangzhong, one of the featured techniques.</center></p>
+<span style="font-weight: 400"><center>Cardamom buns made with tangzhong, one of the featured techniques.</center></span>
 
 ### 1. High-butter pie crusts for consistent, no-fuss flakiness
 
@@ -22,7 +22,7 @@ You could probably keep trying these recipes and eventually learn enough tricks 
 Stella's recipe is painless compared to so many others, and I've achieved good results with most pastries in the pie family: open-face pies, lattice pies, galettes, hand pies, and tartes.
 
 <img class="standard" src="/images/baking-tips/strawbarb.jpg" alt="Strawberry-rhubarb galette topped with pearl sugar." > 
-<p style="font-weight: 400"><center>_Strawberry-rhubarb galette.</center></p>
+<span style="font-weight: 400"><center>Strawberry-rhubarb galette.</center></span>
 
 ### 2. *Tangzhong* for perfectly moist and soft brioche-style breads
 
@@ -31,7 +31,7 @@ Breads, rolls, and buns made from enriched doughs are some of my favorite things
 A tangzhong is a paste of a small amount of flour mixed with hot milk. Flour usually can't take up much water, but at higher temperatures (65°C / 149°F), the intermolecular bonds between starch molecules break down. These starch molecules are then exposed, and they can be fully dissolved by water molecules, yielding a thick, wet paste (*gelatinization*). Tangzhong-based doughs therefore retain more moisture than usual throughout the entire baking process. Once the dough hits the oven, it puffs better due to increased steam production from the extra water, and the finished product stays fresh longer: pregelatinized starch doesn't stale as easily.
 
 <img class="standard" src="/images/baking-tips/milkrolls.jpg" alt="Milk bread rolls, using a tangzhong dough." > 
-<p style="font-weight: 400"><center>Tangzhong-based milk bread rolls.</center></p>
+<span style="font-weight: 400"><center>Tangzhong-based milk bread rolls.</center></span>
 
 To use a tangzhong, it's as simple as adding the warm roux to the rest of the ingredients and kneading as normal. Some recipes are already written accounting for this step, such as this excellent [cinnamon roll](https://www.kingarthurbaking.com/recipes/perfectly-pillowy-cinnamon-rolls-recipe) one. It's a great place to start, and you don't even have to use a cinnamon filling: once you roll out the dough, it's a blank canvas. I've done guava-cream cheese and rhubarb-cardamom fillings. Other form factors which frequently use tangzhong are [dinner rolls](https://www.kingarthurbaking.com/recipes/japanese-milk-bread-rolls-recipe) and [loaves of white bread](https://cooking.nytimes.com/recipes/1023030-maple-milk-bread).
 
@@ -77,7 +77,7 @@ Using these techniques, I’ve narrowed in on my favorite CCC recipe by slightly
 
 
 <img class="standard" src="/images/baking-tips/cookie.jpg" alt="Optimized CCCs." > 
-<p style="font-weight: 400"><center>My favorite CCCs.</center></p>
+<span style="font-weight: 400"><center>My favorite CCCs.</center></span>
 
 I’ve also found these principles easily applicable to other kinds of cookies. For example, last December, I was craving chewy, dense molasses cookies, inspired by the ones from [Sofra Bakery](https://www.instagram.com/sofrabakery/?hl=en) in Cambridge. Surprisingly, I wasn’t happy with the recipes from NYT Cooking or Bon Appetit; though the spiced flavor was nice, the cookies were smooth, tender, and cakey. So, I made three changes: (1) melt the butter instead of creaming it, for denseness instead of airiness; (2) fully dissolve half the sugar in at first, but roughly dissolve the other half in at the end, for a craggier texture; (3) use baking soda instead of baking powder, for less uniformity and cakeyness. I also changed the flour/butter ratio a slight amount, and baked at 50F higher. This might all sound complicated, but this updated recipe was no harder to execute than the original, and it’s very satisfying to be able to learn from your initial results to produce a result that you are happy with. That isn’t always easy in baking, so I’m thankful that Kenji’s guide makes it possible, at least for cookies.
 
