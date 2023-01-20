@@ -1,1 +1,8 @@
-<meta http-equiv="Refresh" content="0; url='https://www.rajivmovva.com'" />
+<html lang='en'>    
+  <head>          
+    <meta http-equiv="refresh" content="0; URL='https://rajivmovva.com/'" />    
+  </head>    
+  <body> 
+    <p>This page has moved to <a href="https://rajivmovva.com/">rajivmovva.com</a>.</p> 
+  </body>  
+</html>
