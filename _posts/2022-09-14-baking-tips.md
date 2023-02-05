@@ -83,36 +83,41 @@ I’ve also found these principles easily applicable to other kinds of cookies. 
 
 I hope you find these little tips useful. In case you’re interested, below, I wrote up two of the recipes that I adapted, for cardamom buns and molasses cookies. Happy baking, and always happy to discuss anything further!
 
-#### Recipe: Cardamom Buns (makes six)
+#### Recipe: Cardamom Buns (makes six large, or twelve small)
 
 Dough:
 - Tangzhong: 60g milk + 12g flour
 - 200g all-purpose flour
 - 3g / 1 tsp yeast
 - 30g / 2 tbsp light brown sugar
-- ½ tsp ground cardamom
-- ⅛ teaspoon salt
+- 0.5 tsp ground cardamom
+- 0.25 teaspoon salt
 - 90g milk
 - 30g / 2 tbsp softened butter
 
 Filling:
 - 60g / 4 tbsp softened butter
 - 60g / 4 tbsp light brown sugar
-- 1 tsp freshly ground cardamom, or 2-3 tsp ground cardamom 
+- 1 tsp freshly ground cardamom (from ~10 pods), or 2-3 tsp ground cardamom 
 - Pinch of salt
 
 Steps: 
-1. For the tangzhong: heat the milk to a bare simmer (microwave 30-60s) and stir in the flour.
-2. Combine the other dough ingredients, besides the butter. Mix in the tangzhong and let sit for 5 minutes (it'll be very dry, but this step will help develop gluten before adding in the butter, which hinders gluten formation).
-3. Mix in the melted butter, and knead for about 5 minutes.
-4. Leave covered at room temperature until ~doubled, 1-2 hours. Move to the refrigerator for 30 minutes to make the dough easier to work.
-5. While the dough is chilling, make the filling by combining all ingredients.
-6. Shape the dough ball into a rectangle, and roll out fairly thin to about 7in x 21in (if you double the recipe, it should be 14in x 21in)
-7. Spread the filling all over the rectangle, leaving a small margin at the top edge.
-8. Cut down the length of the rectangle to get six equal dough strips.
-9. Shape the dough strips into buns; see suggestions [here](https://www.youtube.com/watch?v=htzUqjxVlZA).
-10. Preheat oven to 400F and chill for 10-15 minutes.
-11. Lightly brush buns with an egg (or cream) wash, and bake for 15-20 minutes or until softly browned.
+1. For the tangzhong: heat the milk to a bare simmer (microwave 30-60s) and stir in the flour, whisking away any lumps.
+2. If using a stand mixer: add the tangzhong and other dough ingredients, besides the butter. Knead for 6-8 minutes on medium-low speed; the dough should appear dry, but should still come together and gain strength.  
+If working by hand: use a spatula to mix tangzhong and all other dough ingredients, besides the butter, until evenly incorporated. Let rest for 10 minutes to let the gluten develop. Perform a [bowl fold](https://www.youtube.com/watch?v=eTo_Ho5C6sk)\*, let sit in the fridge for an hour, and then knead for 8 minutes on the countertop, adding up to 2-3 tbsp flour as necessary to prevent sticking. Move the dough back to the bowl.
+3. Add the butter. If using a stand mixer, just add in the softened butter 1 tbsp at a time while running on medium-low. Let the mixer run until the butter is fully incorporated, and for 2 additional minutes after that.  
+If kneading by hand, after the previous kneading step, rub the softened butter into the dough with a spatula. Once the dough is not too greasy to work, knead for an additional 3 minutes on the countertop, flouring more if necessary.
+4. Leave covered at room temperature until ~doubled, 1-2 hours. Move to the refrigerator for 1 hour; the chilled dough is much easier to shape.
+5. While the dough is chilling, make the filling by creaming the butter with the sugar, cardamom, and salt.
+6. Shape the dough ball into a rectangle, and roll out fairly thin to about 7in x 18in (if you double the recipe, it should be 14in x 18in). The short side should be facing you.
+7. Spread the filling all over the rectangle, leaving about a 1/2 inch margin on the top and bottom (of the long dimension).
+8. Fold the bottom third of dough over the middle third, and then fold the top third over, forming a 7in x 6in rectangle. Chill the dough again in the fridge for 15-30 minutes as necessary.
+9. Cut down the length of the rectangle to get six equal dough strips. If you'd like to make twelve smaller buns, roll the rectangle to be a little wider, around 10in x 6in, and cut into twelve equal strips.
+10. Shape the dough strips into buns; see suggestions [here](https://www.youtube.com/watch?v=htzUqjxVlZA). If making smaller buns, I like placing them in a muffin pan.
+11. Chill shaped buns for 10-15 minutes while preheating to 375F.
+12. Lightly brush buns with an egg (or cream) wash, and bake for 15-20 minutes or until softly browned.
+
+\*The bowl fold technique is *extremely* useful for home bakers without stand mixers; with a bit of planning (i.e. not adding your high-fat ingredients until later), you can develop strong gluten networks without painfully kneading and/or adding way too much flour. I should write another post about bowl folding and related techniques, but in the meantime, here's a very helpful [King Arthur article](https://www.kingarthurbaking.com/blog/2021/10/08/mix-and-fold-in-bread-dough).
 
 #### Recipe: Molasses Cookies (makes \~24)
 
@@ -122,8 +127,8 @@ Ingredients:
 - 1 tsp vanilla extract
 - 140g / 10 tbsp / 1.25 sticks butter, partially melted
 - 170g / 6 ounces / 0.5 cup molasses
-- 1/2 tsp salt
-- 3/4 tsp baking soda
+- 0.5 tsp salt
+- 0.75 tsp baking soda
 - 1.5 tsp cinnamon
 - 0.5 tsp cardamom
 - 1 inch knob of ginger, grated
