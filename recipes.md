@@ -6,8 +6,8 @@ layout: default
 
 <ul class="related-posts">
 
-{% assign recipes = site.posts | where: 'recipe', true %}
-{% for post in recipes %}
+{% assign blog_posts = site.posts | where: 'recipe', true %}
+{% for post in blog_posts %}
     <li class="main-page-list">
         <h4>
             <div style="display: inline-block; width: 90px">

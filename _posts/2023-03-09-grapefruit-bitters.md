@@ -2,13 +2,12 @@
 recipe: true
 layout: default
 date: 2023-03-09T22:00:00Z
-<!-- hero_image: "/images/cocktail-101/cocktail.jpg" -->
-title: Drinking at Home 101
+title: Grapefruit Bitters
 summary:
 
 ---
 
-This recipe is a nice entry point into the experimentation-friendly world of homemade cocktail bitters. Grapefruit might just be my favorite point on the [citrus triangle]: it brings orange's sweetness, lemon's brightness, and its own unique floral citrusyness. Cocktail bitters are a perfect medium to distill this deliciousness into a concentrated tincture, and it's even more fun to accentuate grapefruit's flavor with supporting spices. All you have to do is steep things in vodka for a couple weeks, and you're set. I store my grapefruit bitters in a pint mason jar and add a barspoon to white Negronis, pretty much any mezcal-based cocktail, or even just seltzer on ice. (Homemade bitters also make nice, batchable gifts, especially if you transfer them into [4oz dropper bottles](https://www.amazon.com/dp/B08656X5GB).)
+This recipe is a nice entry point into the experimentation-friendly world of homemade cocktail bitters. Grapefruit might just be my favorite point on the [citrus triangle]: it brings orange's sweetness, lemon's brightness, and its own unique floral citrusyness. Cocktail bitters are a perfect medium to distill this deliciousness into a concentrated tincture, and it's even more fun to accentuate grapefruit's flavor with supporting spices. All you have to do is steep things in vodka for a couple weeks, and you're set. I store my grapefruit bitters in a pint mason jar and add a barspoon to white negronis, pretty much any mezcal-based cocktail, or even just seltzer on ice. (Homemade bitters also make nice, batchable gifts, especially if you transfer them into [4oz dropper bottles](https://www.amazon.com/dp/B08656X5GB).)
 
 A few notes. First, grapefruit has a relatively thick layer of bitter pith compared to most citrus. This is annoying when you're trying to eat pieces of grapefruit flesh, but we're making _bitters_ here! The pith is a feature, not a bug, so don't bother cutting it away from your swaths of zest. Second, the spice selection is **highly customizable** to your tastes and what you have on hand. I would say coriander and cinnamon are key – coriander has a nice lemony earthyness, and cinnamon adds sweet-spicy complexity – but beyond that, go wild (just err on the side of using very little of each spice, as some of them dominate quickly). For example, I didn't use cloves, but I think adding one clove could be nice. Third, I've listed gentian (the primary bittering agent in Campari and many other liqueurs) as optional; if you don't have it, add some extra pith to compensate.
 
