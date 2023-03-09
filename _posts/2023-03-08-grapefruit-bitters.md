@@ -1,12 +1,14 @@
 ---
 recipe: true
-blog_post: true
+blog_post: false
 layout: default
 date: 2023-03-08T22:00:00Z
 title: Grapefruit Bitters
-summary: How I've made my pies, breads, and cookies easier and/or yummier.
+summary: An easy, hands-off project for citrus and cocktail lovers alike.
 
 ---
+
+## Homemade Grapefruit Bitters
 
 This recipe is a nice entry point into the experimentation-friendly world of homemade cocktail bitters. Grapefruit might just be my favorite point on the [citrus triangle]: it brings orange's sweetness, lemon's brightness, and its own unique floral citrusyness. Cocktail bitters are a perfect medium to distill this deliciousness into a concentrated tincture, and it's even more fun to accentuate grapefruit's flavor with supporting spices. All you have to do is steep things in vodka for a couple weeks, and you're set. I store my grapefruit bitters in a pint mason jar and add a barspoon to white negronis, pretty much any mezcal-based cocktail, or even just seltzer on ice. (Homemade bitters also make nice, batchable gifts, especially if you transfer them into [4oz dropper bottles](https://www.amazon.com/dp/B08656X5GB).)
 
