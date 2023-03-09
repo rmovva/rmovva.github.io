@@ -16,10 +16,6 @@ layout: default
         <a class="una" href="{{ site.baseurl }}{{ post.url }}">
             <span>{{ post.title }}</span>
         </a>
-        <span class="brsmall"></span>
-        <div class="post-summary">
-        {{ post.summary }}
-        </div>
         </h4>
     </li>
     {% if forloop.last %}</ul>{% endif %}
