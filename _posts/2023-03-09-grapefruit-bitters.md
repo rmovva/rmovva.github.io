@@ -1,6 +1,6 @@
 ---
 recipe: true
-blog_post: false
+blog_post: true
 layout: default
 date: 2023-03-09T22:00:00Z
 title: Grapefruit Bitters
