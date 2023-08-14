@@ -5,8 +5,7 @@ layout: default
 I'm lucky to have learned from so many nice people. Each of these individuals has had a strong influence on me as a scientist and person - I'm very thankful, and hope to pay it forward.
 
 ### Advisors
-- Emma Pierson [2022-, Cornell]
-- Nikhil Garg [2022-, Cornell]
+- Emma Pierson [2022-present, Cornell]
 - Catherine D'Ignazio [2021, MIT]
 - Michael Carbin [2020-21, MIT]
 - Anshul Kundaje [2017-18, Stanford]
@@ -21,8 +20,10 @@ Before grad school, I learned everything I knew from extremely generous students
 - Remzi Celebi [2016, Dumontier Lab at Stanford]
 
 ### Collaborators
+- Nikhil Garg [2022-present, Cornell]
 - Divya Shanmugam [2023, MIT]
 - Shayne Longpre, Jinhao Lei [2021, Apple]
+- Jason Zhao [2020, MIT]
 - Avantika Lal [2020, NVIDIA Genomics]
 
 
