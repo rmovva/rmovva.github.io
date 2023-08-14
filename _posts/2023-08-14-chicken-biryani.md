@@ -22,7 +22,7 @@ Beyond these small changes, my recipe is pretty standard, but I'd like to write 
 <!-- <img class="standard" src="/images/recipes/bitters_ingredients.jpg" alt="Ingredients for grapefruit bitters, including grapefruit, lemon, cinnamon, coriander seed, pink peppercorn, and bay leaf." > 
 <center><span style="font-weight: normal;">Ingredients for grapefruit bitters.</span></center> -->
 
-### Recipe: Grapefruit Bitters (makes 12oz)
+### Recipe: Chicken Biryani (Feeds 4-6)
 
 First, marinate the chicken overnight. It's best if this step is done ahead of time, so that the acidic yogurt can tenderize the chicken. Marinade ingredients (amounts are very rough here, everything should be to taste):
 
