@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm lucky to have learned from so many nice people. Each of these individuals has had a strong influence on me as a scientist and person - I'm very thankful, and hope to pay it forward.
+I'm lucky to have learned from so many nice people. Each of these individuals has had a strong influence on me as a scientist and person - I'm very thankful, and hope to pay it forward. Feel free to ask for specific details on why all these folks are so great, e.g. if you're considering working with them!
 
 ### Advisors
 - Emma Pierson [2022-present, Cornell]

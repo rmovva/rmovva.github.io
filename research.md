@@ -4,9 +4,14 @@ layout: default
 
 ## Papers
 
+[Large language models shape and are shaped by society: A survey of arXiv publication patterns](https://arxiv.org/abs/2307.10700)
+**Rajiv Movva\***, Sidhika Balachandar\*, Kenny Peng\*, Gabriel Agostini\*, Nikhil Garg, Emma Pierson. (*co-first authors)
+Working paper, 2023.
+[[paper]](https://arxiv.org/abs/2307.10700) [[twitter]](https://twitter.com/rajivmovva/status/1683903070646960128)
+
 [Coarse race data conceals disparities in clinical risk score performance.](https://arxiv.org/abs/2304.09270)  
-**Rajiv Movva\***, Divya Shanmugam\*, Kaihua Hou, Priya Pathak, John Guttag, Nikhil Garg, Emma Pierson. (*equal contribution)  
-arXiv, 2023.  
+**Rajiv Movva\***, Divya Shanmugam\*, Kaihua Hou, Priya Pathak, John Guttag, Nikhil Garg, Emma Pierson. (*co-first authors)  
+MLHC 2023.  
 [[paper]](https://arxiv.org/abs/2304.09270) [[twitter]](https://twitter.com/rajivmovva/status/1651237859465080834)  
 
 
