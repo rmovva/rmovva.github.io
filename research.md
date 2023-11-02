@@ -4,27 +4,28 @@ layout: default
 
 ## Papers
 
-[Large language models shape and are shaped by society: A survey of arXiv publication patterns](https://arxiv.org/abs/2307.10700)  
+[Topics, Authors, and Networks in Large Language Model Research: Trends from a Survey of 17K arXiv Papers](https://arxiv.org/abs/2307.10700)  
 **Rajiv Movva\***, Sidhika Balachandar\*, Kenny Peng\*, Gabriel Agostini\*, Nikhil Garg, Emma Pierson (*co-first authors)  
 Working paper, 2023.  
 [[paper]](https://arxiv.org/abs/2307.10700) [[twitter]](https://twitter.com/rajivmovva/status/1683903070646960128)  
 
+
 [Coarse race data conceals disparities in clinical risk score performance.](https://arxiv.org/abs/2304.09270)  
 **Rajiv Movva\***, Divya Shanmugam\*, Kaihua Hou, Priya Pathak, John Guttag, Nikhil Garg, Emma Pierson. (*co-first authors)  
 MLHC 2023.  
-[[paper]](https://arxiv.org/abs/2304.09270) [[twitter]](https://twitter.com/rajivmovva/status/1651237859465080834)  
+[[paper]](https://arxiv.org/abs/2304.09270) [[twitter]](https://twitter.com/rajivmovva/status/1651237859465080834) [[Cornell news]](https://news.cornell.edu/stories/2023/08/using-broad-race-categories-medicine-hides-true-health-risks)
+
+
+[Towards Intersectional, Feminist, Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection.](https://dl.acm.org/doi/10.1145/3531146.3533132)   
+Harini Suresh, **Rajiv Movva**, Amelia Dogan, Giulia Taurino, Rahul Bhargava, Catherine D’Ignazio.  
+FAccT 2022, 🏆 <span style="color:#CC5500">Best Paper!</span>  
+[[paper]](https://dl.acm.org/doi/10.1145/3531146.3533132) [[twitter]](https://twitter.com/rajivmovva/status/1539172168269012992)  
 
 
 [Combining Compressions for Multiplicative Size Scaling on Natural Language Tasks.](https://aclanthology.org/2022.coling-1.252/)  
 **Rajiv Movva**, Jinhao Lei, Shayne Longpre, Ajay Gupta, Chris DuBois.  
 COLING 2022.  
 [[paper]](https://aclanthology.org/2022.coling-1.252/) [[twitter]](https://twitter.com/rajivmovva/status/1574444670104526848)  
-
-
-[Towards Intersectional, Feminist, Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection.](https://dl.acm.org/doi/10.1145/3531146.3533132)   
-Harini Suresh, **Rajiv Movva**, Amelia Dogan, Giulia Taurino, Rahul Bhargava, Catherine D’Ignazio.  
-FAccT 2022, <span style="color:#CC5500">Best Paper!</span>  
-[[paper]](https://dl.acm.org/doi/10.1145/3531146.3533132) [[twitter]](https://twitter.com/rajivmovva/status/1539172168269012992)  
 
 
 [Studying the Consistency and Composability of Lottery Ticket Pruning Masks.](https://arxiv.org/abs/2104.14753)  
@@ -35,7 +36,7 @@ ICLR Workshop on Science and Engineering of Deep Learning 2021.
 
 [Dissecting Lottery Ticket Transformers: Structural and Behavorial Study of Sparse Neural Machine Translation.](https://arxiv.org/abs/2009.13270)   
 **Rajiv Movva** and Jason Zhao.  
-BlackboxNLP @ EMNLP 2020, <span style="color:#CC5500">Best Paper!</span>   
+BlackboxNLP @ EMNLP 2020, 🏆 <span style="color:#CC5500">Best Paper!</span>   
 [[paper]](https://arxiv.org/abs/2009.13270) [[twitter]](https://twitter.com/rajivmovva/status/1311017289500766208) [[slides]](https://docs.google.com/presentation/d/1dVEXenyGF6Szxg8FPgua2sJQGWXvIdaBwKShS8jO8sM)  
   
   
