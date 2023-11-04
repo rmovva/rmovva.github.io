@@ -4,7 +4,10 @@ layout: default
 
 ## Papers
 
-[Topics, Authors, and Networks in Large Language Model Research: Trends from a Survey of 17K arXiv Papers](https://arxiv.org/abs/2307.10700)  
+[[Semantic Scholar]](https://www.semanticscholar.org/author/Rajiv-Movva/1405369173) [[Google Scholar]](https://scholar.google.com/citations?user=OLbbUjcAAAAJ&hl=en)  
+
+
+[Topics, Authors, and Networks in Large Language Model Research: Trends from a Survey of 17K arXiv Papers.](https://arxiv.org/abs/2307.10700)  
 **Rajiv Movva\***, Sidhika Balachandar\*, Kenny Peng\*, Gabriel Agostini\*, Nikhil Garg, Emma Pierson (*co-first authors)  
 Working paper, 2023.  
 [[paper]](https://arxiv.org/abs/2307.10700) [[twitter]](https://twitter.com/rajivmovva/status/1683903070646960128)  
@@ -18,7 +21,8 @@ MLHC 2023.
 
 [Towards Intersectional, Feminist, Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection.](https://dl.acm.org/doi/10.1145/3531146.3533132)   
 Harini Suresh, **Rajiv Movva**, Amelia Dogan, Giulia Taurino, Rahul Bhargava, Catherine D’Ignazio.  
-FAccT 2022, 🏆 <span style="color:#CC5500">Best Paper!</span>  
+FAccT 2022.  
+🏆 <span style="color:#CC5500">Best Paper!</span> 🏆  
 [[paper]](https://dl.acm.org/doi/10.1145/3531146.3533132) [[twitter]](https://twitter.com/rajivmovva/status/1539172168269012992)  
 
 
@@ -28,16 +32,17 @@ COLING 2022.
 [[paper]](https://aclanthology.org/2022.coling-1.252/) [[twitter]](https://twitter.com/rajivmovva/status/1574444670104526848)  
 
 
+[Dissecting Lottery Ticket Transformers: Structural and Behavorial Study of Sparse Neural Machine Translation.](https://arxiv.org/abs/2009.13270)   
+**Rajiv Movva** and Jason Zhao.  
+BlackboxNLP @ EMNLP 2020.  
+🏆 <span style="color:#CC5500">Best Paper!</span> 🏆   
+[[paper]](https://arxiv.org/abs/2009.13270) [[twitter]](https://twitter.com/rajivmovva/status/1311017289500766208) [[slides]](https://docs.google.com/presentation/d/1dVEXenyGF6Szxg8FPgua2sJQGWXvIdaBwKShS8jO8sM)  
+
+
 [Studying the Consistency and Composability of Lottery Ticket Pruning Masks.](https://arxiv.org/abs/2104.14753)  
 **Rajiv Movva**, Jonathan Frankle, Michael Carbin.  
 ICLR Workshop on Science and Engineering of Deep Learning 2021.  
 [[paper]](https://arxiv.org/abs/2104.14753) [[twitter]](https://twitter.com/rajivmovva/status/1390526193666072576)  
-
-
-[Dissecting Lottery Ticket Transformers: Structural and Behavorial Study of Sparse Neural Machine Translation.](https://arxiv.org/abs/2009.13270)   
-**Rajiv Movva** and Jason Zhao.  
-BlackboxNLP @ EMNLP 2020, 🏆 <span style="color:#CC5500">Best Paper!</span>   
-[[paper]](https://arxiv.org/abs/2009.13270) [[twitter]](https://twitter.com/rajivmovva/status/1311017289500766208) [[slides]](https://docs.google.com/presentation/d/1dVEXenyGF6Szxg8FPgua2sJQGWXvIdaBwKShS8jO8sM)  
   
   
 [Deciphering regulatory DNA sequences and noncoding genetic variants using neural network models of massively parallel reporter assays.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218073)    
