@@ -7,7 +7,7 @@ layout: default
 [[Semantic Scholar]](https://www.semanticscholar.org/author/Rajiv-Movva/1405369173) [[Google Scholar]](https://scholar.google.com/citations?user=OLbbUjcAAAAJ&hl=en)  
 
 
-[Topics, Authors, and Networks in Large Language Model Research: Trends from a Survey of 17K arXiv Papers.](https://arxiv.org/abs/2307.10700)  
+[Topics, Authors, and Institutions in Large Language Model Research: Trends from 17K arXiv Papers.](https://arxiv.org/abs/2307.10700)  
 **Rajiv Movva\***, Sidhika Balachandar\*, Kenny Peng\*, Gabriel Agostini\*, Nikhil Garg, Emma Pierson (*co-first authors)  
 Working paper, 2023.  
 [[paper]](https://arxiv.org/abs/2307.10700) [[twitter]](https://twitter.com/rajivmovva/status/1683903070646960128)  
@@ -15,14 +15,15 @@ Working paper, 2023.
 
 [Coarse race data conceals disparities in clinical risk score performance.](https://arxiv.org/abs/2304.09270)  
 **Rajiv Movva\***, Divya Shanmugam\*, Kaihua Hou, Priya Pathak, John Guttag, Nikhil Garg, Emma Pierson. (*co-first authors)  
-MLHC 2023.  
+MLHC 2023 (Proceedings) & ML4H 2023 (Findings).  
+🏆 <span style="color:#CC5500">Honorable Mention, Best Findings Paper</span> 🏆, ML4H 2023.  
 [[paper]](https://arxiv.org/abs/2304.09270) [[twitter]](https://twitter.com/rajivmovva/status/1651237859465080834) [[Cornell news]](https://news.cornell.edu/stories/2023/08/using-broad-race-categories-medicine-hides-true-health-risks)
 
 
 [Towards Intersectional, Feminist, Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection.](https://dl.acm.org/doi/10.1145/3531146.3533132)   
-Harini Suresh, **Rajiv Movva**, Amelia Dogan, Giulia Taurino, Rahul Bhargava, Catherine D’Ignazio.  
+Harini Suresh, **Rajiv Movva**, Amelia Dogan, Rahul Bhargava, Isadora Cruxên, Ángeles Martinez Cuba, Giulia Taurino, Wonyoung So, Catherine D’Ignazio.  
 FAccT 2022.  
-🏆 <span style="color:#CC5500">Best Paper!</span> 🏆  
+🏆 <span style="color:#CC5500">Best Student Paper</span> 🏆  
 [[paper]](https://dl.acm.org/doi/10.1145/3531146.3533132) [[twitter]](https://twitter.com/rajivmovva/status/1539172168269012992)  
 
 
@@ -35,7 +36,7 @@ COLING 2022.
 [Dissecting Lottery Ticket Transformers: Structural and Behavorial Study of Sparse Neural Machine Translation.](https://arxiv.org/abs/2009.13270)   
 **Rajiv Movva** and Jason Zhao.  
 BlackboxNLP @ EMNLP 2020.  
-🏆 <span style="color:#CC5500">Best Paper!</span> 🏆   
+🏆 <span style="color:#CC5500">Best Paper</span> 🏆   
 [[paper]](https://arxiv.org/abs/2009.13270) [[twitter]](https://twitter.com/rajivmovva/status/1311017289500766208) [[slides]](https://docs.google.com/presentation/d/1dVEXenyGF6Szxg8FPgua2sJQGWXvIdaBwKShS8jO8sM)  
 
 

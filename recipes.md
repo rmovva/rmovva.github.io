@@ -4,6 +4,8 @@ layout: default
 
 ## Recipes
 
+I've started using [Substack](https://rajmovva.substack.com/) for food writing instead, so this page may no longer receive updates.
+
 <ul class="related-posts">
 
 {% assign blog_posts = site.posts | where: 'recipe', true %}
