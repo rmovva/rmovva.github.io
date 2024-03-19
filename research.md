@@ -9,7 +9,7 @@ Full list available on [[Google Scholar]](https://scholar.google.com/citations?u
 **Comparing LLM ratings of conversational safety with human annotators.**   
 Rajiv Movva, Pang Wei Koh, Emma Pierson  
 Working draft.  
-[[extended abstract]](rajivmovva.com/llm-safety-evaluators.pdf)  
+[[extended abstract]](https://rajivmovva.com/llm-safety-evaluators.pdf)  
 
 **Topics, Authors, and Institutions in Large Language Model Research: Trends from 17K arXiv Papers.**   
 Rajiv Movva\*, Sidhika Balachandar\*, Kenny Peng\*, Gabriel Agostini\*, Nikhil Garg, Emma Pierson (*co-first authors)  
