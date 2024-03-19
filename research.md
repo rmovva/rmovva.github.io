@@ -2,51 +2,63 @@
 layout: default
 ---
 
-## Papers
+### Preprints
 
-[[Semantic Scholar]](https://www.semanticscholar.org/author/Rajiv-Movva/1405369173) [[Google Scholar]](https://scholar.google.com/citations?user=OLbbUjcAAAAJ&hl=en)  
+**Comparing LLM ratings of conversational safety with human annotators.**   
+**Rajiv Movva**, Pang Wei Koh, Emma Pierson  
+Working draft.  
+[[extended abstract]](rajivmovva.com/llm-safety-evaluators.pdf)  
+
+**Use large language models to promote equity.**
+Emma Pierson\*, Divya Shanmugam\*, Rajiv Movva\*, Jon Kleinberg\* et al.
+Working paper.
+[[paper]](https://arxiv.org/abs/2312.14804) [[twitter]](https://twitter.com/2plus2make5/status/1738240365210058796)
+
+### Papers
+
+Full list available on [[Google Scholar]](https://scholar.google.com/citations?user=OLbbUjcAAAAJ&hl=en).    
 
 
-[Topics, Authors, and Institutions in Large Language Model Research: Trends from 17K arXiv Papers.](https://arxiv.org/abs/2307.10700)  
+**Topics, Authors, and Institutions in Large Language Model Research: Trends from 17K arXiv Papers.**   
 **Rajiv Movva\***, Sidhika Balachandar\*, Kenny Peng\*, Gabriel Agostini\*, Nikhil Garg, Emma Pierson (*co-first authors)  
-Working paper, 2023.  
+NAACL 2024.  
 [[paper]](https://arxiv.org/abs/2307.10700) [[twitter]](https://twitter.com/rajivmovva/status/1683903070646960128)  
 
 
-[Coarse race data conceals disparities in clinical risk score performance.](https://arxiv.org/abs/2304.09270)  
+**Coarse race data conceals disparities in clinical risk score performance.**   
 **Rajiv Movva\***, Divya Shanmugam\*, Kaihua Hou, Priya Pathak, John Guttag, Nikhil Garg, Emma Pierson. (*co-first authors)  
 MLHC 2023 (Proceedings) & ML4H 2023 (Findings).  
 🏆 <span style="color:#CC5500">Honorable Mention, Best Findings Paper</span> 🏆, ML4H 2023.  
 [[paper]](https://arxiv.org/abs/2304.09270) [[twitter]](https://twitter.com/rajivmovva/status/1651237859465080834) [[Cornell news]](https://news.cornell.edu/stories/2023/08/using-broad-race-categories-medicine-hides-true-health-risks)
 
 
-[Towards Intersectional, Feminist, Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection.](https://dl.acm.org/doi/10.1145/3531146.3533132)   
+**Towards Intersectional, Feminist, Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection.**   
 Harini Suresh, **Rajiv Movva**, Amelia Dogan, Rahul Bhargava, Isadora Cruxên, Ángeles Martinez Cuba, Giulia Taurino, Wonyoung So, Catherine D’Ignazio.  
 FAccT 2022.  
 🏆 <span style="color:#CC5500">Best Student Paper</span> 🏆  
 [[paper]](https://dl.acm.org/doi/10.1145/3531146.3533132) [[twitter]](https://twitter.com/rajivmovva/status/1539172168269012992)  
 
 
-[Combining Compressions for Multiplicative Size Scaling on Natural Language Tasks.](https://aclanthology.org/2022.coling-1.252/)  
+**Combining Compressions for Multiplicative Size Scaling on Natural Language Tasks.**  
 **Rajiv Movva**, Jinhao Lei, Shayne Longpre, Ajay Gupta, Chris DuBois.  
 COLING 2022.  
 [[paper]](https://aclanthology.org/2022.coling-1.252/) [[twitter]](https://twitter.com/rajivmovva/status/1574444670104526848)  
 
 
-[Dissecting Lottery Ticket Transformers: Structural and Behavorial Study of Sparse Neural Machine Translation.](https://arxiv.org/abs/2009.13270)   
+**Dissecting Lottery Ticket Transformers: Structural and Behavorial Study of Sparse Neural Machine Translation.**   
 **Rajiv Movva** and Jason Zhao.  
 BlackboxNLP @ EMNLP 2020.  
 🏆 <span style="color:#CC5500">Best Paper</span> 🏆   
 [[paper]](https://arxiv.org/abs/2009.13270) [[twitter]](https://twitter.com/rajivmovva/status/1311017289500766208) [[slides]](https://docs.google.com/presentation/d/1dVEXenyGF6Szxg8FPgua2sJQGWXvIdaBwKShS8jO8sM)  
 
 
-[Studying the Consistency and Composability of Lottery Ticket Pruning Masks.](https://arxiv.org/abs/2104.14753)  
+**Studying the Consistency and Composability of Lottery Ticket Pruning Masks.**  
 **Rajiv Movva**, Jonathan Frankle, Michael Carbin.  
 ICLR Workshop on Science and Engineering of Deep Learning 2021.  
 [[paper]](https://arxiv.org/abs/2104.14753) [[twitter]](https://twitter.com/rajivmovva/status/1390526193666072576)  
   
   
-[Deciphering regulatory DNA sequences and noncoding genetic variants using neural network models of massively parallel reporter assays.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218073)    
+**Deciphering regulatory DNA sequences and noncoding genetic variants using neural network models of massively parallel reporter assays.**    
 **Rajiv Movva**, Peyton Greenside, Georgi K Marinov, Surag Nair, Avanti Shrikumar, Anshul Kundaje.  
 PLoS ONE, 2019.  
 [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218073) [[twitter]](https://twitter.com/rajivmovva/status/1030495776093294593)  
