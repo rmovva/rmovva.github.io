@@ -8,7 +8,7 @@ Hi, I’m Raj, a CS PhD student at Cornell Tech. I am advised by [Emma Pierson](
 
 Previously, I studied CS at MIT with minors in Women’s & Gender Studies and Biology. I was lucky to work with the [Data + Feminism Lab](https://dataplusfeminism.mit.edu/), where we developed intersectional, participatory NLP systems to support activist labor ([FAccT 2022](https://dl.acm.org/doi/10.1145/3531146.3533132)). I've also interned at [Apple Research](https://machinelearning.apple.com/), studying efficiency and compression for language models \[[1](https://aclanthology.org/2022.coling-1.252/), [2](https://www.aclweb.org/anthology/2020.blackboxnlp-1.19/)\]. I am very thankful to my excellent mentors along the way, including [Harini Suresh](https://harinisuresh.com/), [Jonathan Frankle](http://www.jfrankle.com/), and [Shayne Longpre](https://www.shaynelongpre.com/); see [here](https://rajivmovva.com/people) for a longer list of people who I'm indebted to! I was also president of [AI@MIT](https://www.ai-at-mit.com/), where I helped design [intro ML workshops](https://github.com/AI-at-MIT/Workshops) and ordered lots of food.
 
-I hew closely to PhD stereotypes: my primary hobbies are baking, rock climbing, [reading](https://www.goodreads.com/user/show/139600509-rajiv-movva), mixology, and (mostly watching) tennis. If you'd like to read some unreliable recipes I've written, see [here](https://rajivmovva.com/recipes).  
+I hew closely to PhD stereotypes: my primary hobbies are baking, rock climbing, [reading](https://www.goodreads.com/user/show/139600509-rajiv-movva), mixology, and (mostly watching) tennis. I occasionally write things [here](https://rajivmovva.com/blog), including some unreliable recipes that I like.  
 
 ### Updates
 
