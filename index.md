@@ -8,17 +8,19 @@ Hi, I’m Raj, a CS PhD student at Cornell Tech. I am advised by [Emma Pierson](
 
 Previously, I studied CS at MIT with minors in Women’s & Gender Studies and Biology. I was lucky to work with the [Data + Feminism Lab](https://dataplusfeminism.mit.edu/), where we developed intersectional, participatory NLP systems to support activist labor ([FAccT 2022](https://dl.acm.org/doi/10.1145/3531146.3533132)). I've also interned at [Apple Research](https://machinelearning.apple.com/), studying efficiency and compression for language models \[[1](https://aclanthology.org/2022.coling-1.252/), [2](https://www.aclweb.org/anthology/2020.blackboxnlp-1.19/)\]. I am very thankful to my excellent mentors along the way, including [Harini Suresh](https://harinisuresh.com/), [Jonathan Frankle](http://www.jfrankle.com/), and [Shayne Longpre](https://www.shaynelongpre.com/); see [here](https://rajivmovva.com/people) for a longer list of people who I'm indebted to! I was also president of [AI@MIT](https://www.ai-at-mit.com/), where I helped design [intro ML workshops](https://github.com/AI-at-MIT/Workshops) and ordered lots of food.
 
-I hew closely to PhD stereotypes: my primary hobbies are baking, rock climbing, [reading](https://www.goodreads.com/user/show/139600509-rajiv-movva), mixology, and (mostly watching) tennis. I occasionally write things [here](https://rajivmovva.com/blog), including some unreliable recipes that I like.  
+I hew closely to PhD stereotypes: my primary hobbies are baking, rock climbing, [reading](https://www.goodreads.com/user/show/139600509-rajiv-movva), mixology, and (mostly watching) tennis. I occasionally write things [here](https://rajivmovva.com/blog), including some unreliable recipes I've written.  
 
 ### Updates
 
-- [2024-03] [Topics, Authors, and Institutions in Large Language Model Research](https://arxiv.org/abs/2307.10700) is accepted as a Main Conference paper at NAACL 2024!
-- [2023-12] Our paper on granular race disparities won a Best Paper Honorable Mention at [ML4H 2023](https://ml4h.cc/2023/)!
-- [2023-11] Data (for 17K LLM papers through Sep 2023) and code for the LLM survey paper are [now available on Github](https://github.com/rmovva/LLM-publication-patterns-public)! I'll be presenting a poster at [TADA 2023](https://tada2023.org/).  
-- [2023-08] I presented our [paper on granular race disparities](https://arxiv.org/abs/2304.09270) at MLHC 2023! Thanks for the excellent conversations; code is available [on Github](https://github.com/rmovva/granular-race-disparities_MLHC23).
-- [2023-07] [New working paper](https://arxiv.org/abs/2307.10700) on arXiv! We analyzed 14K language modeling-related papers on arXiv to detail recent publishing trends.
-- [2023-04] [Our new paper](https://arxiv.org/abs/2304.09270) is on arXiv, the first from my PhD! We find that granular race categories are critical to algorithmic fairness analyses in healthcare; [here's](https://twitter.com/rajivmovva/status/1651237859465080834) a summary.
-- [2022-08] [Our paper](https://arxiv.org/abs/2208.09684) on compressing language models is accepted to COLING 2022! I led this project during an Apple internship in 2021.
+[Jun 2024] I'm interning with the FATE group at Microsoft Research Montreal this summer, mentored by Su Lin Blodgett and Noura Farra! 
+[Jun 2024] I'll be at NAACL in Mexico City! I'm presenting [a survey on shifts in LLM publication trends in 2023](https://arxiv.org/abs/2307.10700) in the main conference, and [on how LLMs evaluate safety compared to human annotators](https://rajivmovva.com/llm-safety-evaluators.pdf) at the Workshop for Online Abuse and Harms.
+<!-- - [Mar 2024] [Topics, Authors, and Institutions in Large Language Model Research](https://arxiv.org/abs/2307.10700) is accepted as a Main Conference paper at NAACL 2024! -->
+- [Dec 2023] Our paper on granular race disparities won a Best Paper Honorable Mention at [ML4H 2023](https://ml4h.cc/2023/)!
+<!-- - [Nov 2023] Data (for 17K LLM papers through Sep 2023) and code for the LLM survey paper are [now available on Github](https://github.com/rmovva/LLM-publication-patterns-public)! I'll be presenting a poster at [TADA 2023](https://tada2023.org/).   -->
+<!-- - [2023-08] I presented our [paper on granular race disparities](https://arxiv.org/abs/2304.09270) at MLHC 2023! Thanks for the excellent conversations; code is available [on Github](https://github.com/rmovva/granular-race-disparities_MLHC23). -->
+<!-- - [2023-07] [New working paper](https://arxiv.org/abs/2307.10700) on arXiv! We analyzed 14K language modeling-related papers on arXiv to detail recent publishing trends. -->
+<!-- - [2023-04] [Our new paper](https://arxiv.org/abs/2304.09270) is on arXiv, the first from my PhD! We find that granular race categories are critical to algorithmic fairness analyses in healthcare; [here's](https://twitter.com/rajivmovva/status/1651237859465080834) a summary. -->
+<!-- - [2022-08] [Our paper](https://arxiv.org/abs/2208.09684) on compressing language models is accepted to COLING 2022! I led this project during an Apple internship in 2021. -->
 <!-- - [2022-04] In the Fall, I'll start my PhD at Cornell Tech in NYC. -->
 <!-- - [2022-04] I was awarded an NSF Graduate Fellowship! -->
 
