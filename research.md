@@ -6,20 +6,24 @@ layout: default
 
 Full list available on [[Google Scholar]](https://scholar.google.com/citations?user=OLbbUjcAAAAJ&hl=en).  
 
-**Comparing LLM ratings of conversational safety with human annotators.**   
+
+**Annotation alignment: Comparing LLM and human annotations of conversational safety.**   
 Rajiv Movva, Pang Wei Koh, Emma Pierson  
-Working draft.  
-[[extended abstract]](https://rajivmovva.com/llm-safety-evaluators.pdf)  
+Working paper; extended abstract at WOAH 2024.  
+[[paper]](http://arxiv.org/abs/2406.06369) [[twitter]](https://x.com/rajivmovva/status/1800929570994171923)  
+
 
 **Topics, Authors, and Institutions in Large Language Model Research: Trends from 17K arXiv Papers.**   
 Rajiv Movva\*, Sidhika Balachandar\*, Kenny Peng\*, Gabriel Agostini\*, Nikhil Garg, Emma Pierson (*co-first authors)  
 NAACL 2024.  
 [[paper]](https://arxiv.org/abs/2307.10700) [[twitter]](https://twitter.com/rajivmovva/status/1683903070646960128)  
 
+
 **Use large language models to promote equity.**  
 Emma Pierson\*, Divya Shanmugam\*, Rajiv Movva\*, Jon Kleinberg\* et al.  
 Working paper.  
 [[paper]](https://arxiv.org/abs/2312.14804) [[twitter]](https://twitter.com/2plus2make5/status/1738240365210058796)  
+
 
 **Coarse race data conceals disparities in clinical risk score performance.**   
 Rajiv Movva\*, Divya Shanmugam\*, Kaihua Hou, Priya Pathak, John Guttag, Nikhil Garg, Emma Pierson. (*co-first authors)  
