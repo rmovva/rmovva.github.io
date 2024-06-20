@@ -4,7 +4,7 @@ layout: default
 
 ## Papers  
 
-Full list available on [[Google Scholar]](https://scholar.google.com/citations?user=OLbbUjcAAAAJ&hl=en).  Asterisks\* denote co-first authorship.
+Full list available on [[Google Scholar]](https://scholar.google.com/citations?user=OLbbUjcAAAAJ&hl=en). Asterisks\* denote co-first authorship.  
 
 
 **Annotation alignment: Comparing LLM and human annotations of conversational safety.**   
