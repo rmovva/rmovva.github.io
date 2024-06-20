@@ -4,17 +4,17 @@ layout: default
 
 ## Papers  
 
-Full list available on [[Google Scholar]](https://scholar.google.com/citations?user=OLbbUjcAAAAJ&hl=en).  
+Full list available on [[Google Scholar]](https://scholar.google.com/citations?user=OLbbUjcAAAAJ&hl=en).  Asterisks* denote co-first authorship.
 
 
 **Annotation alignment: Comparing LLM and human annotations of conversational safety.**   
-Rajiv Movva, Pang Wei Koh, Emma Pierson  
+Rajiv Movva, Pang Wei Koh, Emma Pierson.  
 Working paper; extended abstract at WOAH 2024.  
 [[paper]](http://arxiv.org/abs/2406.06369) [[twitter]](https://x.com/rajivmovva/status/1800929570994171923)  
 
 
 **Topics, Authors, and Institutions in Large Language Model Research: Trends from 17K arXiv Papers.**   
-Rajiv Movva\*, Sidhika Balachandar\*, Kenny Peng\*, Gabriel Agostini\*, Nikhil Garg, Emma Pierson (*co-first authors)  
+Rajiv Movva\*, Sidhika Balachandar\*, Kenny Peng\*, Gabriel Agostini\*, Nikhil Garg, Emma Pierson.  
 NAACL 2024.  
 [[paper]](https://arxiv.org/abs/2307.10700) [[twitter]](https://twitter.com/rajivmovva/status/1683903070646960128)  
 
@@ -26,7 +26,7 @@ Working paper.
 
 
 **Coarse race data conceals disparities in clinical risk score performance.**   
-Rajiv Movva\*, Divya Shanmugam\*, Kaihua Hou, Priya Pathak, John Guttag, Nikhil Garg, Emma Pierson. (*co-first authors)  
+Rajiv Movva\*, Divya Shanmugam\*, Kaihua Hou, Priya Pathak, John Guttag, Nikhil Garg, Emma Pierson.  
 MLHC 2023 (Proceedings) & ML4H 2023 (Findings).  
 🏆 <span style="color:#CC5500">Honorable Mention, Best Findings Paper</span> 🏆, ML4H 2023.  
 [[paper]](https://arxiv.org/abs/2304.09270) [[twitter]](https://twitter.com/rajivmovva/status/1651237859465080834) [[Cornell news]](https://news.cornell.edu/stories/2023/08/using-broad-race-categories-medicine-hides-true-health-risks)
@@ -40,7 +40,7 @@ FAccT 2022.
 
 
 **Combining Compressions for Multiplicative Size Scaling on Natural Language Tasks.**  
-Rajiv Movva, Jinhao Lei, Shayne Longpre, Ajay Gupta, Chris DuBois.  
+Rajiv Movva*, Jinhao Lei*, Shayne Longpre, Ajay Gupta, Chris DuBois.  
 COLING 2022.  
 [[paper]](https://aclanthology.org/2022.coling-1.252/) [[twitter]](https://twitter.com/rajivmovva/status/1574444670104526848)  
 
