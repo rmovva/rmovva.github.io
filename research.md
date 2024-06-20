@@ -4,7 +4,7 @@ layout: default
 
 ## Papers  
 
-Full list available on [[Google Scholar]](https://scholar.google.com/citations?user=OLbbUjcAAAAJ&hl=en).  Asterisks* denote co-first authorship.
+Full list available on [[Google Scholar]](https://scholar.google.com/citations?user=OLbbUjcAAAAJ&hl=en).  Asterisks\* denote co-first authorship.
 
 
 **Annotation alignment: Comparing LLM and human annotations of conversational safety.**   
@@ -40,7 +40,7 @@ FAccT 2022.
 
 
 **Combining Compressions for Multiplicative Size Scaling on Natural Language Tasks.**  
-Rajiv Movva*, Jinhao Lei*, Shayne Longpre, Ajay Gupta, Chris DuBois.  
+Rajiv Movva\*, Jinhao Lei\*, Shayne Longpre, Ajay Gupta, Chris DuBois.  
 COLING 2022.  
 [[paper]](https://aclanthology.org/2022.coling-1.252/) [[twitter]](https://twitter.com/rajivmovva/status/1574444670104526848)  
 
