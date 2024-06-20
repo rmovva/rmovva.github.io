@@ -6,15 +6,15 @@ layout: default
 
 <!-- Hello to all the language models hiding in the back. -->
 
-Hi, I’m Raj! I'm a CS PhD student at Cornell Tech, advised by [Emma Pierson](https://www.cs.cornell.edu/~emmapierson/). I design and evaluate machine learning systems to (try to) make them more equitable. My work draws on NLP, AI ethics, and healthcare. Currently, I'm interning with the [FATE](https://www.microsoft.com/en-us/research/theme/fate/) group at Microsoft Research Montréal.  
+Hi, I’m Raj! I'm a CS PhD student at Cornell Tech, advised by [Emma Pierson](https://www.cs.cornell.edu/~emmapierson/). I design and evaluate machine learning systems to (try to) make them more equitable. My work draws from NLP, AI ethics, and healthcare. Currently, I'm interning with the [FATE](https://www.microsoft.com/en-us/research/theme/fate/) group at Microsoft Research Montréal.  
 
-At Cornell, I am part of the [Digital Life Initiative](https://www.dli.tech.cornell.edu/) and the [AI, Policy, and Practice](https://aipp.cis.cornell.edu/) working groups, which have helped broaden my thinking towards philosophy, law, and economics.  
+At Cornell, I am part of the [Digital Life Initiative](https://www.dli.tech.cornell.edu/) and the [AI, Policy, and Practice](https://aipp.cis.cornell.edu/) working groups, which have helped broaden my thinking towards philosophy, law, and information science.  
 
 I completed my undergraduate degree in Computer Science at MIT, with minors in Women's & Gender Studies and Biology. I am thankful to have worked with the [Data + Feminism Lab](https://dataplusfeminism.mit.edu/), where we thought about how to apply intersectional feminism in the design & deployment of ML.
 
- I occasionally write things [here](https://rajivmovva.com/blog). I'm deeply passionate about food (don't tell my advisor that I sometimes think more about cooking than research), and I occasionally write more food-oriented things on [Substack](https://rajmovva.substack.com/). Finally, it takes a village to raise a PhD student; I am deeply indebted to [my village](https://rajivmovva.com/people). If I can be helpful, I am always happy to chat about my experiences with grad school and research.  
+ I occasionally write things [here](https://rajivmovva.com/blog). I'm deeply passionate about food (don't tell my advisor that I sometimes think more about cooking than research), and I occasionally write food-related things on [Substack](https://rajmovva.substack.com/). Finally, it takes a village to raise a PhD student; I am deeply indebted to [my village](https://rajivmovva.com/people). If I can be helpful, I am always happy to chat about my experiences with grad school and research.  
 
-### Recently  
+### Recently:  
 
 - [Jun 2024] I'm interning with the FATE group at Microsoft Research Montréal this summer, mentored by Su Lin Blodgett and Noura Farra! 
 - [Jun 2024] I'll be at NAACL in Mexico City! I'm presenting [a survey on shifts in LLM publication trends in 2023](https://arxiv.org/abs/2307.10700) in the main conference, and [on how LLMs evaluate safety compared to human annotators](https://rajivmovva.com/llm-safety-evaluators.pdf) at the Workshop for Online Abuse and Harms.
@@ -30,7 +30,7 @@ Working paper; extended abstract at WOAH 2024.
 **Topics, Authors, and Institutions in Large Language Model Research: Trends from 17K arXiv Papers.**   
 Rajiv Movva\*, Sidhika Balachandar\*, Kenny Peng\*, Gabriel Agostini\*, Nikhil Garg, Emma Pierson.  
 NAACL 2024.  
-[[paper]](https://arxiv.org/abs/2307.10700) [[twitter]](https://twitter.com/rajivmovva/status/1683903070646960128)  
+[[paper]](https://aclanthology.org/2024.naacl-long.67/) [[twitter]](https://twitter.com/rajivmovva/status/1683903070646960128)  
 
 **Coarse race data conceals disparities in clinical risk score performance.**   
 Rajiv Movva\*, Divya Shanmugam\*, Kaihua Hou, Priya Pathak, John Guttag, Nikhil Garg, Emma Pierson.  

@@ -16,7 +16,7 @@ Working paper; extended abstract at WOAH 2024.
 **Topics, Authors, and Institutions in Large Language Model Research: Trends from 17K arXiv Papers.**   
 Rajiv Movva\*, Sidhika Balachandar\*, Kenny Peng\*, Gabriel Agostini\*, Nikhil Garg, Emma Pierson.  
 NAACL 2024.  
-[[paper]](https://arxiv.org/abs/2307.10700) [[twitter]](https://twitter.com/rajivmovva/status/1683903070646960128)  
+[[paper]](https://aclanthology.org/2024.naacl-long.67/) [[twitter]](https://twitter.com/rajivmovva/status/1683903070646960128)  
 
 
 **Use large language models to promote equity.**  
