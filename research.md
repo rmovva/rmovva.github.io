@@ -9,7 +9,7 @@ Full list available on [[Google Scholar]](https://scholar.google.com/citations?u
 
 **Annotation alignment: Comparing LLM and human annotations of conversational safety.**   
 Rajiv Movva, Pang Wei Koh, Emma Pierson.  
-Working paper; extended abstract at WOAH 2024.  
+EMNLP 2024.   
 [[paper]](http://arxiv.org/abs/2406.06369) [[twitter]](https://x.com/rajivmovva/status/1800929570994171923)  
 
 
@@ -63,6 +63,13 @@ Rajiv Movva, Peyton Greenside, Georgi K Marinov, Surag Nair, Avanti Shrikumar, A
 PLoS ONE, 2019.  
 [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218073) [[twitter]](https://twitter.com/rajivmovva/status/1030495776093294593)  
 
+
+## Other Writing
+
+**Using unlabeled data to enhance fairness of medical AI.**  
+Rajiv Movva, Pang Wei Koh, and Emma Pierson.  
+Nature Medicine 2024 (News & Views).  
+[[article]](https://www.nature.com/articles/s41591-024-02892-0)  
 
 <!-- ## Preprints, etc.
 
