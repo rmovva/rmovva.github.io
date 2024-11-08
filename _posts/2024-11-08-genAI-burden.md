@@ -7,7 +7,7 @@ summary: The proliferation of AI-generated content creates a new burden for AI n
 
 ---
 
-In 11th grade, I sent several emails to local professors begging to intern in their research labs for the summer. These weren’t good emails. Littered with flowery adjectives about what I wanted to delve into for the summer, most emails unsurprisingly went unread. And yet a couple professors read them and replied, even commending my effort in putting down whatever half-baked ideas they had to parse through.
+In 11th grade, I sent several emails to local professors begging to intern in their research labs for the summer. These weren’t good emails. Littered with flowery adjectives about what I wanted to delve into for the summer, most emails unsurprisingly went unread. And yet a couple professors read them and replied, even commending my effort in putting down whatever half-baked ideas they had to parse through. 
 
 I don’t think this strategy works anymore, and large language models are at least partially to blame. I recently received an email from a high school student asking to do research with me. On the surface, the email sounded personal, with mentions of my papers and follow-up ideas. On closer look, there were suspicious signs of AI-generatedness: the email’s structure was familiarly formulaic, and the descriptions of ideas were vague and over-the-top. Of course, misguided emails from young students are nothing new; there is no way I can really be sure whether they used ChatGPT or not. But the existence of that possibility means that my reaction to these emails feels different now in 2024, compared to just two years ago. The fact that cold emails *could* be AI-generated casts doubt on the whole enterprise.
 
