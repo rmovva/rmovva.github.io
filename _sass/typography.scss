@@ -111,4 +111,19 @@
         margin: 0 auto;
         width: 100%;
     }
+    .footnotes {
+        margin-top: 2em;
+        
+        ol {
+            margin-top: 0.5em;
+        }
+        
+        li {
+            margin-left: 0;
+            p {
+                display: inline;
+                margin: 0;
+            }
+        }
+    }
 }
