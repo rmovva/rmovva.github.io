@@ -16,7 +16,7 @@ EMNLP 2024.
 **Topics, Authors, and Institutions in Large Language Model Research: Trends from 17K arXiv Papers.**   
 Rajiv Movva\*, Sidhika Balachandar\*, Kenny Peng\*, Gabriel Agostini\*, Nikhil Garg, Emma Pierson.  
 NAACL 2024.  
-[[paper]](https://aclanthology.org/2024.naacl-long.67/) [[twitter]](https://twitter.com/rajivmovva/status/1683903070646960128)  [[Data Skeptic podcast]](https://podcasts.apple.com/au/podcast/arxiv-publication-patterns/id890348705?i=1000632314046)  
+[[paper]](https://aclanthology.org/2024.naacl-long.67/) [[twitter]](https://twitter.com/rajivmovva/status/1683903070646960128)  [[Data Skeptic podcast]](https://podcasts.apple.com/au/podcast/arxiv-publication-patterns/id890348705?i=1000632314046) [[code]](https://github.com/rmovva/LLM-publication-patterns-public)  
 
 
 **Use large language models to promote equity.**  
@@ -29,7 +29,7 @@ Working paper.
 Rajiv Movva\*, Divya Shanmugam\*, Kaihua Hou, Priya Pathak, John Guttag, Nikhil Garg, Emma Pierson.  
 MLHC 2023 (Proceedings) & ML4H 2023 (Findings).  
 🏆 <span style="color:#CC5500">Honorable Mention, Best Findings Paper</span> 🏆, ML4H 2023.  
-[[paper]](https://arxiv.org/abs/2304.09270) [[twitter]](https://twitter.com/rajivmovva/status/1651237859465080834) [[Cornell news]](https://news.cornell.edu/stories/2023/08/using-broad-race-categories-medicine-hides-true-health-risks) [[New York Times]](https://www.nytimes.com/interactive/2024/02/25/us/census-race-ethnicity-middle-east-north-africa.html)  
+[[paper]](https://arxiv.org/abs/2304.09270) [[twitter]](https://twitter.com/rajivmovva/status/1651237859465080834) [[Cornell news]](https://news.cornell.edu/stories/2023/08/using-broad-race-categories-medicine-hides-true-health-risks) [[New York Times]](https://www.nytimes.com/interactive/2024/02/25/us/census-race-ethnicity-middle-east-north-africa.html) [[code]](https://github.com/rmovva/granular-race-disparities_MLHC23)  
 
 
 **Towards Intersectional, Feminist, Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection.**   
