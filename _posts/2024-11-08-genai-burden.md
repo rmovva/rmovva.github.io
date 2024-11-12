@@ -33,7 +33,7 @@ My second prediction is that as AI-generated content becomes more common, the pu
 
 What’s certain is that GenAI will uproot our preconceptions of which content deserves value. It’s helpful to remember that we humans have the agency to decide how that happens.
 
-*Thanks to Kenny Peng and Myra Cheng for helpful thoughts on this piece.*
+*Thanks to Kenny Peng and Myra Cheng for helpful thoughts on this essay.*
 
 [^1]: Chesney, Robert and Citron, Danielle. "Deep Fakes: A Looming Challenge for Privacy, Democracy, and National Security." California Law Review, 2019. [[Link]](https://ssrn.com/abstract=3213954)
 
