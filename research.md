@@ -21,7 +21,7 @@ NAACL 2024.
 
 **Use large language models to promote equity.**  
 Emma Pierson\*, Divya Shanmugam\*, Rajiv Movva\*, Jon Kleinberg\* et al.  
-Working paper.  
+New England Journal of Medicine AI, 2024.  
 [[paper]](https://arxiv.org/abs/2312.14804) [[twitter]](https://twitter.com/2plus2make5/status/1738240365210058796)  
 
 
@@ -68,7 +68,7 @@ PLoS ONE, 2019.
 
 **Using unlabeled data to enhance fairness of medical AI.**  
 Rajiv Movva, Pang Wei Koh, and Emma Pierson.  
-Nature Medicine 2024 (News & Views).  
+Nature Medicine, 2024 (News & Views).  
 [[article]](https://www.nature.com/articles/s41591-024-02892-0)  
 
 <!-- ## Preprints, etc.
