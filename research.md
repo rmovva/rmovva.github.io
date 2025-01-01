@@ -13,16 +13,22 @@ EMNLP 2024.
 [[paper]](http://arxiv.org/abs/2406.06369) [[twitter]](https://x.com/rajivmovva/status/1800929570994171923)  
 
 
-**Topics, Authors, and Institutions in Large Language Model Research: Trends from 17K arXiv Papers.**   
-Rajiv Movva\*, Sidhika Balachandar\*, Kenny Peng\*, Gabriel Agostini\*, Nikhil Garg, Emma Pierson.  
-NAACL 2024.  
-[[paper]](https://aclanthology.org/2024.naacl-long.67/) [[twitter]](https://twitter.com/rajivmovva/status/1683903070646960128) [[code]](https://github.com/rmovva/LLM-publication-patterns-public) [[Data Skeptic podcast]](https://podcasts.apple.com/au/podcast/arxiv-publication-patterns/id890348705?i=1000632314046)  
+**Generative AI in Medicine.**  
+Divya Shanmugam, Monica Agrawal, Rajiv Movva, Irene Y. Chen, Marzyeh Ghassemi, Maia Jacobs, Emma Pierson.  
+Annual Review of Biomedical Data Science, 2025.  
+[[paper]](https://arxiv.org/abs/2412.10337) [[twitter]](https://x.com/dmshanmugam/status/1869427161616265551)  
 
 
 **Use large language models to promote equity.**  
 Emma Pierson\*, Divya Shanmugam\*, Rajiv Movva\*, Jon Kleinberg\* et al.  
 New England Journal of Medicine AI, 2024.  
 [[paper]](https://arxiv.org/abs/2312.14804) [[twitter]](https://twitter.com/2plus2make5/status/1738240365210058796)  
+
+
+**Topics, Authors, and Institutions in Large Language Model Research: Trends from 17K arXiv Papers.**   
+Rajiv Movva\*, Sidhika Balachandar\*, Kenny Peng\*, Gabriel Agostini\*, Nikhil Garg, Emma Pierson.  
+NAACL 2024.  
+[[paper]](https://aclanthology.org/2024.naacl-long.67/) [[twitter]](https://twitter.com/rajivmovva/status/1683903070646960128) [[code]](https://github.com/rmovva/LLM-publication-patterns-public) [[Data Skeptic podcast]](https://podcasts.apple.com/au/podcast/arxiv-publication-patterns/id890348705?i=1000632314046)  
 
 
 **Coarse race data conceals disparities in clinical risk score performance.**   

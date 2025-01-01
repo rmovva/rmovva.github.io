@@ -6,11 +6,20 @@ layout: default
 
 <!-- Hello to all the language models hiding in the back. -->
 
-I am a third-year CS PhD student at Cornell Tech, advised by [Emma Pierson](https://www.cs.cornell.edu/~emmapierson/). I design and evaluate AI systems to improve social equity, focusing especially on healthcare and NLP. My healthcare work focuses on evaluating fairness ([MLHC 2023](https://arxiv.org/abs/2304.09270)) and using LLMs to promote equity ([arXiv 2023](https://arxiv.org/abs/2312.14804)). My NLP work focuses on pluralistic alignment: when do users disagree about what constitutes a “good” language model ([EMNLP 2024](https://arxiv.org/abs/2406.06369)), and how should pluralism inform model design? 
+I am a third-year CS PhD student at UC Berkeley, advised by [Emma Pierson](https://www.cs.cornell.edu/~emmapierson/). 
+I design and evaluate AI systems for social problems, focusing especially on healthcare and NLP. 
+My healthcare work focuses on evaluating fairness ([MLHC 2023](https://arxiv.org/abs/2304.09270)) and using LLMs to promote equity ([arXiv 2023](https://arxiv.org/abs/2312.14804)). 
+My NLP work focuses on pluralistic alignment: when do users disagree about what constitutes a “good” language model ([EMNLP 2024](https://arxiv.org/abs/2406.06369)), and how should pluralism inform model design? 
 
-In 2024, I interned with the [FATE](https://www.microsoft.com/en-us/research/theme/fate/) group at Microsoft Research Montréal. At Cornell, I am part of the [Digital Life Initiative](https://www.dli.tech.cornell.edu/) and the [AI, Policy, and Practice](https://aipp.cis.cornell.edu/) working groups. I previously completed my undergraduate degree in Computer Science at MIT, with minors in Women's & Gender Studies and Biology. I enjoyed working with the [Data + Feminism Lab](https://dataplusfeminism.mit.edu/).
+I started my PhD at Cornell Tech, and I continue to collaborate with the [AI, Policy, and Practice](https://aipp.cis.cornell.edu/) working group. 
+I was part of the [Digital Life Initiative](https://www.dli.tech.cornell.edu/). 
+In 2024, I interned with the [FATE](https://www.microsoft.com/en-us/research/theme/fate/) group at Microsoft Research Montréal. 
+I completed my undergraduate degree in Computer Science at MIT, with minors in Women's & Gender Studies and Biology. 
+There, I enjoyed working with the [Data + Feminism Lab](https://dataplusfeminism.mit.edu/).
 
-I occasionally write things [here](https://rajivmovva.com/blog). I like food, and I occasionally write food-related things on [Substack](https://rajmovva.substack.com/). I am grateful to all the [mentors and collaborators](https://rajivmovva.com/people) who have helped me along the way; if I can be helpful, I am always happy to chat [via email](mailto:rmovva00@gmail.com).  
+I occasionally write things [here](https://rajivmovva.com/blog). 
+I like food, and I occasionally write food-related things on [Substack](https://rajmovva.substack.com/). 
+I am grateful to all the [mentors and collaborators](https://rajivmovva.com/people) who have helped me along the way; if I can be helpful, I am always happy to chat [via email](mailto:rmovva00@gmail.com).  
 
 ### Recently:  
 
