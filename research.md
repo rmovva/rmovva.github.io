@@ -6,6 +6,10 @@ layout: default
 
 Full list available on [[Google Scholar]](https://scholar.google.com/citations?user=OLbbUjcAAAAJ&hl=en). Asterisks\* denote co-first authorship.  
 
+**Sparse Autoencoders for Hypothesis Generation.**  
+Rajiv Movva\*, Kenny Peng\*, Nikhil Garg, Jon Kleinberg, Emma Pierson.  
+arXiv 2025.  
+[[working draft]](https://arxiv.org/abs/2502.04382)  
 
 **Annotation alignment: Comparing LLM and human annotations of conversational safety.**   
 Rajiv Movva, Pang Wei Koh, Emma Pierson.  
@@ -21,8 +25,8 @@ Annual Review of Biomedical Data Science, 2025.
 
 **Use large language models to promote equity.**  
 Emma Pierson\*, Divya Shanmugam\*, Rajiv Movva\*, Jon Kleinberg\* et al.  
-New England Journal of Medicine AI, 2024.  
-[[paper]](https://arxiv.org/abs/2312.14804) [[twitter]](https://twitter.com/2plus2make5/status/1738240365210058796)  
+New England Journal of Medicine AI, 2025.  
+[[paper]](https://ai.nejm.org/doi/full/10.1056/AIp2400889) [[preprint]](https://arxiv.org/abs/2312.14804) [[twitter]](https://twitter.com/2plus2make5/status/1738240365210058796)  
 
 
 **Topics, Authors, and Institutions in Large Language Model Research: Trends from 17K arXiv Papers.**   

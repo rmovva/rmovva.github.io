@@ -7,18 +7,18 @@ layout: default
 <!-- Hello to all the language models hiding in the back. -->
 
 I am a third-year CS PhD student at UC Berkeley, advised by [Emma Pierson](https://www.cs.cornell.edu/~emmapierson/). 
-I design and evaluate AI systems for social problems, focusing especially on healthcare and NLP. 
-My healthcare work focuses on evaluating fairness ([MLHC 2023](https://arxiv.org/abs/2304.09270)) and using LLMs to promote equity ([arXiv 2023](https://arxiv.org/abs/2312.14804)). 
-My NLP work focuses on pluralistic alignment: when do users disagree about what constitutes a “good” language model ([EMNLP 2024](https://arxiv.org/abs/2406.06369)), and how should pluralism inform model design? 
+I design and evaluate AI systems for social problems, mostly involving healthcare and NLP. 
+My prior work focuses on improving ML fairness audits ([MLHC 2023](https://arxiv.org/abs/2304.09270)), using LLMs for health equity ([NEJM AI 2025](https://ai.nejm.org/doi/full/10.1056/AIp2400889)), and measuring pluralistic alignment in language models ([EMNLP 2024](https://arxiv.org/abs/2406.06369)). 
+Recently, I'm excited about interpreting foundation models to drive scientific discovery ([arXiv 2025](https://arxiv.org/abs/2502.04382)).
 
 I started my PhD at Cornell Tech, and I continue to collaborate with the [AI, Policy, and Practice](https://aipp.cis.cornell.edu/) working group. 
 I was part of the [Digital Life Initiative](https://www.dli.tech.cornell.edu/). 
 In 2024, I interned with the [FATE](https://www.microsoft.com/en-us/research/theme/fate/) group at Microsoft Research Montréal. 
 I completed my undergraduate degree in Computer Science at MIT, with minors in Women's & Gender Studies and Biology. 
-There, I enjoyed working with the [Data + Feminism Lab](https://dataplusfeminism.mit.edu/).
+I worked with the [Data + Feminism Lab](https://dataplusfeminism.mit.edu/) and the [Programming Systems Group](https://superurop.mit.edu/scholars/rajiv-movva/).
 
 I occasionally write things [here](https://rajivmovva.com/blog). 
-I like food, and I occasionally write food-related things on [Substack](https://rajmovva.substack.com/). 
+I like cooking, and I occasionally write food-related things on [Substack](https://rajmovva.substack.com/). 
 I am grateful to all the [mentors and collaborators](https://rajivmovva.com/people) who have helped me along the way; if I can be helpful, I am always happy to chat [via email](mailto:rmovva00@gmail.com).  
 
 ### Recently:  
@@ -29,6 +29,11 @@ I am grateful to all the [mentors and collaborators](https://rajivmovva.com/peop
 - [Jun 2024] I'm interning with the FATE group at Microsoft Research Montréal this summer, mentored by Su Lin Blodgett and Noura Farra! 
 
 ### Selected Work  
+
+**Sparse Autoencoders for Hypothesis Generation.**  
+Rajiv Movva\*, Kenny Peng\*, Nikhil Garg, Jon Kleinberg, Emma Pierson.  
+arXiv 2025.  
+[[working draft]](https://arxiv.org/abs/2502.04382)  
 
 **Annotation alignment: Comparing LLM and human annotations of conversational safety.**   
 Rajiv Movva, Pang Wei Koh, Emma Pierson.  
