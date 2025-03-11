@@ -8,25 +8,23 @@ layout: default
 
 I am a third-year CS PhD student at UC Berkeley, advised by [Emma Pierson](https://www.cs.cornell.edu/~emmapierson/). 
 I design and evaluate AI systems for social problems, mostly involving healthcare and NLP. 
-My prior work focuses on improving ML fairness audits ([MLHC 2023](https://arxiv.org/abs/2304.09270)), using LLMs for health equity ([NEJM AI 2025](https://ai.nejm.org/doi/full/10.1056/AIp2400889)), and measuring pluralistic alignment in language models ([EMNLP 2024](https://arxiv.org/abs/2406.06369)). 
-Recently, I'm excited about interpreting foundation models to drive scientific discovery ([arXiv 2025](https://arxiv.org/abs/2502.04382)).
+Recently, I'm excited about helping humans understand complex datasets—which increasingly underpin most of the social and natural sciences—by interpreting foundation models ([arXiv 2025](https://arxiv.org/abs/2502.04382)).
+Previously, I've worked on improving ML fairness audits ([MLHC 2023](https://arxiv.org/abs/2304.09270)), using LLMs for health equity ([NEJM AI 2025](https://ai.nejm.org/doi/full/10.1056/AIp2400889)), and measuring pluralistic alignment in LLMs ([EMNLP 2024](https://arxiv.org/abs/2406.06369)). 
 
-I started my PhD at Cornell Tech, and I continue to collaborate with the [AI, Policy, and Practice](https://aipp.cis.cornell.edu/) working group. 
-I was part of the [Digital Life Initiative](https://www.dli.tech.cornell.edu/). 
+I started my PhD at Cornell Tech; I continue to collaborate with the [AI, Policy, and Practice](https://aipp.cis.cornell.edu/) working group, and was part of the [Digital Life Initiative](https://www.dli.tech.cornell.edu/). 
 In 2024, I interned with the [FATE](https://www.microsoft.com/en-us/research/theme/fate/) group at Microsoft Research Montréal. 
 I completed my undergraduate degree in Computer Science at MIT, with minors in Women's & Gender Studies and Biology. 
 I worked with the [Data + Feminism Lab](https://dataplusfeminism.mit.edu/) and the [Programming Systems Group](https://superurop.mit.edu/scholars/rajiv-movva/).
 
 I occasionally write things [here](https://rajivmovva.com/blog). 
 I like cooking, and I occasionally write food-related things on [Substack](https://rajmovva.substack.com/). 
-I am grateful to all the [mentors and collaborators](https://rajivmovva.com/people) who have helped me along the way; if I can be helpful, I am always happy to chat [via email](mailto:rmovva00@gmail.com).  
+I am grateful to all the [mentors and collaborators](https://rajivmovva.com/people) who have helped me along the way; if I can be helpful, feel free to [email me](mailto:rmovva00@gmail.com).  
 
-### Recently:  
+<!-- ### Recently:  
 
 - [Nov 2024] I will transfer to the UC Berkeley Computer Science PhD program, starting in January 2025, and will continue to work with [Emma Pierson](https://www2.eecs.berkeley.edu/Faculty/Homepages/emmapierson.html) there.
 - [Nov 2024] New blog post: [GenAI’s Burden of Authenticity](https://rajivmovva.com/2024/11/08/genai-burden.html). Please send any thoughts!
-- [Sep 2024] Our work on [LLM annotation alignment](https://arxiv.org/abs/2406.06369) is accepted at EMNLP 2024!
-- [Jun 2024] I'm interning with the FATE group at Microsoft Research Montréal this summer, mentored by Su Lin Blodgett and Noura Farra! 
+- [Sep 2024] Our work on [LLM annotation alignment](https://arxiv.org/abs/2406.06369) is accepted at EMNLP 2024! -->
 
 ### Selected Work  
 
@@ -56,3 +54,14 @@ Harini Suresh, Rajiv Movva, Amelia Dogan, Rahul Bhargava, Isadora Cruxên, Ánge
 FAccT 2022.  
 🏆 <span style="color:#CC5500">Best Student Paper</span> 🏆  
 [[paper]](https://dl.acm.org/doi/10.1145/3531146.3533132) [[twitter]](https://twitter.com/rajivmovva/status/1539172168269012992)  
+
+**Dissecting Lottery Ticket Transformers: Structural and Behavorial Study of Sparse Neural Machine Translation.**   
+Rajiv Movva and Jason Zhao.  
+BlackboxNLP @ EMNLP 2020.  
+🏆 <span style="color:#CC5500">Best Paper</span> 🏆   
+[[paper]](https://arxiv.org/abs/2009.13270) [[twitter]](https://twitter.com/rajivmovva/status/1311017289500766208) [[slides]](https://docs.google.com/presentation/d/1dVEXenyGF6Szxg8FPgua2sJQGWXvIdaBwKShS8jO8sM)  
+
+**Deciphering regulatory DNA sequences and noncoding genetic variants using neural network models of massively parallel reporter assays.**    
+Rajiv Movva, Peyton Greenside, Georgi K Marinov, Surag Nair, Avanti Shrikumar, Anshul Kundaje.  
+PLoS ONE, 2019.  
+[[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218073) [[twitter]](https://twitter.com/rajivmovva/status/1030495776093294593)  

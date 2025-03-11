@@ -2,29 +2,31 @@
 layout: default
 ---
 
-I'm lucky to have learned from so many nice people. Each of these individuals has had a strong influence on me as a scientist and person - I'm very thankful, and hope to pay it forward. Feel free to ask for specific details on why all these folks are so great, e.g. if you're considering working with them!
+I'm lucky to have learned from so many nice people. Each of these individuals has influenced me as a scientist and person: feel free to ask for specific details on why all these folks are so great, e.g. if you're considering working with them!
 
 ### Advisors
-- Emma Pierson [2022-present, Cornell]
-- Catherine D'Ignazio [2021, MIT]
-- Michael Carbin [2020-21, MIT]
-- Anshul Kundaje [2017-18, Stanford]
+- [Emma Pierson](https://people.eecs.berkeley.edu/~emmapierson/) [2022-present]
+- [Catherine D'Ignazio](https://kanarinka.com/) [2021, MIT]
+- [Michael Carbin](https://people.csail.mit.edu/mcarbin/) [2020-21, MIT]
+- [Anshul Kundaje](https://kundajelab.github.io/) [2017-18, Stanford]
+
+### Collaborators
+- [Kenny Peng](https://kennypeng.me/) [2024-present]
+- [Pang Wei Koh](https://koh.pw/) [2023-24]
+- [Nikhil Garg](https://gargnikhil.com/) [2022-24]
+- [Divya Shanmugam](https://dmshanmugam.github.io/) [2023-24]
+- [Shayne Longpre](https://www.shaynelongpre.com/), Jinhao Lei [2021, Apple]
+- Jason Zhao [2020, MIT]
+- [Avantika Lal](https://avantikalal.github.io/) [2020, NVIDIA Genomics]
 
 ### Mentors
 Before grad school, I learned everything I knew from extremely generous students. Here are some of them:
-- Harini Suresh [2021, MIT Data + Feminism Lab]
-- Jonathan Frankle [2020-21, Carbin Lab at MIT CSAIL]
-- Erika DeBenedictis [2018-19, Badran Lab at the Broad Institute]
+- [Harini Suresh](https://harinisuresh.com/) [2021, MIT Data + Feminism Lab]
+- [Jonathan Frankle](http://www.jfrankle.com/) [2020-21, Carbin Lab at MIT CSAIL]
+- [Erika DeBenedictis](https://www.erikadebenedictis.com/) [2018-19, Badran Lab at the Broad Institute]
 - Peyton Greenside [2017, Kundaje Lab at Stanford]
-- Alex Trevino & Nasa Sinnott-Armstrong [2016, Greenleaf Lab at Stanford]
-- Remzi Celebi [2016, Dumontier Lab at Stanford]
-
-### Collaborators
-- Nikhil Garg [2022-present, Cornell]
-- Divya Shanmugam [2023, MIT]
-- Shayne Longpre, Jinhao Lei [2021, Apple]
-- Jason Zhao [2020, MIT]
-- Avantika Lal [2020, NVIDIA Genomics]
+- [Alex Trevino](https://www.alexandrotrevino.com/) & [Nasa Sinnott-Armstrong](https://www.fredhutch.org/en/faculty-lab-directory/sinnott-armstrong-nasa.html) [2016, Greenleaf Lab at Stanford]
+- [Remzi Celebi](https://www.maastrichtuniversity.nl/r-celebi) [2016, Dumontier Lab at Stanford]
 
 
 ### Mentees
