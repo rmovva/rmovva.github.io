@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="images/profile.jpg">
+<img class="profile-picture" src="images/profile2.jpg">
 
 <!-- Hello to all the language models hiding in the back. -->
 
