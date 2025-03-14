@@ -31,7 +31,7 @@ I am grateful to all the [mentors and collaborators](https://rajivmovva.com/peop
 **Sparse Autoencoders for Hypothesis Generation.**  
 Rajiv Movva\*, Kenny Peng\*, Nikhil Garg, Jon Kleinberg, Emma Pierson.  
 arXiv 2025.  
-[[working draft]](https://arxiv.org/abs/2502.04382)  
+[[working draft]](https://arxiv.org/abs/2502.04382) [[code]](https://github.com/rmovva/HypotheSAEs) 
 
 **Annotation alignment: Comparing LLM and human annotations of conversational safety.**   
 Rajiv Movva, Pang Wei Koh, Emma Pierson.  
