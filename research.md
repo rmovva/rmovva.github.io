@@ -8,13 +8,14 @@ Full list available on [[Google Scholar]](https://scholar.google.com/citations?u
 
 **Sparse Autoencoders for Hypothesis Generation.**  
 Rajiv Movva\*, Kenny Peng\*, Nikhil Garg, Jon Kleinberg, Emma Pierson.  
-arXiv 2025.  
-[[working draft]](https://arxiv.org/abs/2502.04382)  
+ICML 2025.  
+[[arXiv]](https://arxiv.org/abs/2502.04382) [[demo]](https://hypothesaes.org/) [[code]](https://github.com/rmovva/HypotheSAEs) [[pip install]](https://pypi.org/project/hypothesaes/) [[bluesky]](https://bsky.app/profile/rajmovva.bsky.social/post/3lknxo2h6ak2k)  
+
 
 **Annotation alignment: Comparing LLM and human annotations of conversational safety.**   
 Rajiv Movva, Pang Wei Koh, Emma Pierson.  
 EMNLP 2024.   
-[[paper]](http://arxiv.org/abs/2406.06369) [[twitter]](https://x.com/rajivmovva/status/1800929570994171923)  
+[[paper]](https://aclanthology.org/2024.emnlp-main.511/) [[twitter]](https://x.com/rajivmovva/status/1800929570994171923)  
 
 
 **Generative AI in Medicine.**  
@@ -39,7 +40,7 @@ NAACL 2024.
 Rajiv Movva\*, Divya Shanmugam\*, Kaihua Hou, Priya Pathak, John Guttag, Nikhil Garg, Emma Pierson.  
 MLHC 2023 (Proceedings) & ML4H 2023 (Findings).  
 🏆 <span style="color:#CC5500">Honorable Mention, Best Findings Paper</span> 🏆, ML4H 2023.  
-[[paper]](https://arxiv.org/abs/2304.09270) [[twitter]](https://twitter.com/rajivmovva/status/1651237859465080834) [[code]](https://github.com/rmovva/granular-race-disparities_MLHC23) [[Cornell news]](https://news.cornell.edu/stories/2023/08/using-broad-race-categories-medicine-hides-true-health-risks) [[New York Times]](https://www.nytimes.com/interactive/2024/02/25/us/census-race-ethnicity-middle-east-north-africa.html)  
+[[paper]](https://proceedings.mlr.press/v219/movva23a.html) [[twitter]](https://twitter.com/rajivmovva/status/1651237859465080834) [[code]](https://github.com/rmovva/granular-race-disparities_MLHC23) [[Cornell news]](https://news.cornell.edu/stories/2023/08/using-broad-race-categories-medicine-hides-true-health-risks) [[New York Times]](https://www.nytimes.com/interactive/2024/02/25/us/census-race-ethnicity-middle-east-north-africa.html)  
 
 
 **Towards Intersectional, Feminist, Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection.**   
