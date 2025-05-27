@@ -8,7 +8,7 @@ layout: default
 
 I am a third-year CS PhD student at UC Berkeley, advised by [Emma Pierson](https://www.cs.cornell.edu/~emmapierson/). 
 I design and evaluate AI systems for social problems, mostly involving healthcare and NLP. 
-Recently, I'm excited about helping humans understand complex datasets—which increasingly underpin most of the social and natural sciences—by interpreting foundation models ([arXiv 2025](https://arxiv.org/abs/2502.04382)).
+Recently, I'm excited about extracting insight from complex datasets—which increasingly underpin most of the social and natural sciences—by interpreting foundation models ([ICML 2025](https://arxiv.org/abs/2502.04382)).
 Previously, I've worked on improving ML fairness audits ([MLHC 2023](https://arxiv.org/abs/2304.09270)), using LLMs for health equity ([NEJM AI 2025](https://ai.nejm.org/doi/full/10.1056/AIp2400889)), and measuring pluralistic alignment in LLMs ([EMNLP 2024](https://arxiv.org/abs/2406.06369)). 
 
 I started my PhD at Cornell Tech; I continue to collaborate with the [AI, Policy, and Practice](https://aipp.cis.cornell.edu/) working group, and was part of the [Digital Life Initiative](https://www.dli.tech.cornell.edu/). 
