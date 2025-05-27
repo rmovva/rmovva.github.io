@@ -31,7 +31,7 @@ I am grateful to all the [mentors and collaborators](https://rajivmovva.com/peop
 **Sparse Autoencoders for Hypothesis Generation.**  
 Rajiv Movva\*, Kenny Peng\*, Nikhil Garg, Jon Kleinberg, Emma Pierson.  
 ICML 2025.  
-[[arXiv]](https://arxiv.org/abs/2502.04382) [[demo]](https://hypothesaes.org/) [[code]](https://github.com/rmovva/HypotheSAEs) [[pip install]](https://pypi.org/project/hypothesaes/) [[bluesky]](https://bsky.app/profile/rajmovva.bsky.social/post/3lknxo2h6ak2k)  
+[[paper]](https://arxiv.org/abs/2502.04382) [[demo]](https://hypothesaes.org/) [[code]](https://github.com/rmovva/HypotheSAEs) [[pip install]](https://pypi.org/project/hypothesaes/) [[bluesky]](https://bsky.app/profile/rajmovva.bsky.social/post/3lknxo2h6ak2k)  
 
 **Annotation alignment: Comparing LLM and human annotations of conversational safety.**   
 Rajiv Movva, Pang Wei Koh, Emma Pierson.  
