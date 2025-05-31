@@ -6,25 +6,21 @@ layout: default
 
 <!-- Hello to all the language models hiding in the back. -->
 
-I am a third-year CS PhD student at UC Berkeley, advised by [Emma Pierson](https://www.cs.cornell.edu/~emmapierson/). 
-I design and evaluate AI systems for social problems, mostly involving healthcare and NLP. 
-Recently, I'm excited about extracting insight from complex datasets—which increasingly underpin most of the social and natural sciences—by interpreting foundation models ([ICML 2025](https://arxiv.org/abs/2502.04382)).
-Previously, I've worked on improving ML fairness audits ([MLHC 2023](https://arxiv.org/abs/2304.09270)), using LLMs for health equity ([NEJM AI 2025](https://ai.nejm.org/doi/full/10.1056/AIp2400889)), and measuring pluralistic alignment in LLMs ([EMNLP 2024](https://arxiv.org/abs/2406.06369)). 
+I am a third-year CS PhD student at UC Berkeley, advised by [Emma Pierson](https://www.cs.cornell.edu/~emmapierson/).  
 
-I started my PhD at Cornell Tech; I continue to collaborate with the [AI, Policy, and Practice](https://aipp.cis.cornell.edu/) working group, and was part of the [Digital Life Initiative](https://www.dli.tech.cornell.edu/). 
-In 2024, I interned with the [FATE](https://www.microsoft.com/en-us/research/theme/fate/) group at Microsoft Research Montréal. 
-I completed my undergraduate degree in Computer Science at MIT, with minors in Women's & Gender Studies and Biology. 
-I worked with the [Data + Feminism Lab](https://dataplusfeminism.mit.edu/) and the [Programming Systems Group](https://superurop.mit.edu/scholars/rajiv-movva/).
+I develop AI and NLP methods for problems in the social sciences, healthcare, and biology. 
+Recently, I'm most excited about interpreting foundation models for hypothesis generation.
+I am also interested in evaluating and improving the social impacts of AI.
 
-I occasionally write things [here](https://rajivmovva.com/blog). 
-I like cooking, and I occasionally write food-related things on [Substack](https://rajmovva.substack.com/). 
+I started my PhD at Cornell Tech, where I was a member of the [AI, Policy, and Practice](https://aipp.cis.cornell.edu/) working group and a [Digital Life Initiative](https://www.dli.tech.cornell.edu/) fellow.
+Previously, I studied CS at MIT, with minors in Biology and Women's & Gender Studies. 
+I worked with [Catherine D'Ignazio](https://dataplusfeminism.mit.edu/) and [Michael Carbin](https://people.csail.mit.edu/mcarbin/).
+
+I write sporadically on my [blog](https://rajivmovva.com/blog) and on [Substack](https://rajmovva.substack.com/). 
 I am grateful to all the [mentors and collaborators](https://rajivmovva.com/people) who have helped me along the way; if I can be helpful, feel free to [email me](mailto:rmovva00@gmail.com).  
 
-<!-- ### Recently:  
-
-- [Nov 2024] I will transfer to the UC Berkeley Computer Science PhD program, starting in January 2025, and will continue to work with [Emma Pierson](https://www2.eecs.berkeley.edu/Faculty/Homepages/emmapierson.html) there.
-- [Nov 2024] New blog post: [GenAI’s Burden of Authenticity](https://rajivmovva.com/2024/11/08/genai-burden.html). Please send any thoughts!
-- [Sep 2024] Our work on [LLM annotation alignment](https://arxiv.org/abs/2406.06369) is accepted at EMNLP 2024! -->
+### Recently:  
+-  [🔗 We released a user-friendly Python package for HypotheSAEs.](https://github.com/rmovva/HypotheSAEs) HypotheSAEs is a powerful method to generate hypotheses from large text datasets using sparse autoencoders. We've seen strong results on a number of computational social science tasks, like identifying markers of partisanship in Congressional speeches or concepts that predict engagement in news headlines.
 
 ### Selected Work  
 
