@@ -13,8 +13,8 @@ Recently, I'm most excited about interpreting foundation models for hypothesis g
 I am also interested in evaluating and improving the social impacts of AI.
 
 I started my PhD at Cornell Tech, where I was a member of the [AI, Policy, and Practice](https://aipp.cis.cornell.edu/) working group and a [Digital Life Initiative](https://www.dli.tech.cornell.edu/) fellow.
-Previously, I studied CS at MIT, with minors in Biology and Women's & Gender Studies. 
-I worked with [Catherine D'Ignazio](https://dataplusfeminism.mit.edu/) and [Michael Carbin](https://people.csail.mit.edu/mcarbin/).
+Before my PhD, I studied CS at MIT, with minors in Biology and Women's & Gender Studies. 
+I worked with [Catherine D'Ignazio](https://dataplusfeminism.mit.edu/), [Michael Carbin](https://people.csail.mit.edu/mcarbin/), and [Anshul Kundaje](https://profiles.stanford.edu/anshul-kundaje).
 
 I write sporadically on my [blog](https://rajivmovva.com/blog) and on [Substack](https://rajmovva.substack.com/). 
 I am grateful to all the [mentors and collaborators](https://rajivmovva.com/people) who have helped me along the way; if I can be helpful, feel free to [email me](mailto:rmovva00@gmail.com).  
