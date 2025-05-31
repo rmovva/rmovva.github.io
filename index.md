@@ -20,7 +20,7 @@ I write sporadically on my [blog](https://rajivmovva.com/blog) and on [Substack]
 I am grateful to all the [mentors and collaborators](https://rajivmovva.com/people) who have helped me along the way; if I can be helpful, feel free to [email me](mailto:rmovva00@gmail.com).  
 
 ### Recently:  
--  [🔗 We released a user-friendly Python package for HypotheSAEs.](https://github.com/rmovva/HypotheSAEs) HypotheSAEs is a powerful method to generate hypotheses from large text datasets using sparse autoencoders. We've seen strong results on a number of computational social science tasks, like identifying markers of partisanship in Congressional speeches or concepts that predict engagement in news headlines.
+-  [🔗 We released a Python package for HypotheSAEs.](https://github.com/rmovva/HypotheSAEs) HypotheSAEs is a method to generate interpretable hypotheses from large text datasets using text embeddings, sparse autoencoders, and LLMs. It's fast, cheap, and produces strong results on pretty much all datasets we've tested it on (e.g., Yelp reviews, Congressional speeches, news headlines).
 
 ### Selected Work  
 
