@@ -9,18 +9,19 @@ layout: default
 I am a third-year CS PhD student at UC Berkeley, advised by [Emma Pierson](https://www.cs.cornell.edu/~emmapierson/).  
 
 I develop AI and NLP methods for problems in the social sciences, healthcare, and biology. 
-Recently, I'm most excited about interpreting foundation models for hypothesis generation.
-I am also interested in evaluating and improving the social impacts of AI.
+Recently, I am excited about interpreting foundation models for hypothesis generation.
+I'm also interested in evaluating and improving the social impacts of AI.
 
-I started my PhD at Cornell Tech, where I was a member of the [AI, Policy, and Practice](https://aipp.cis.cornell.edu/) working group and a [Digital Life Initiative](https://www.dli.tech.cornell.edu/) fellow.
+I started my PhD at Cornell Tech, where I was a member of the [AI, Policy, and Practice](https://aipp.cis.cornell.edu/) group and a [Digital Life Initiative](https://www.dli.tech.cornell.edu/) fellow.
 Before my PhD, I studied CS at MIT, with minors in Biology and Women's & Gender Studies. 
 I worked with [Catherine D'Ignazio](https://dataplusfeminism.mit.edu/), [Michael Carbin](https://people.csail.mit.edu/mcarbin/), and [Anshul Kundaje](https://profiles.stanford.edu/anshul-kundaje).
 
 I write sporadically on my [blog](https://rajivmovva.com/blog) and on [Substack](https://rajmovva.substack.com/). 
-I am grateful to all the [mentors and collaborators](https://rajivmovva.com/people) who have helped me along the way; if I can be helpful, feel free to [email me](mailto:rmovva@berkeley.edu).  
+I am grateful to all the [mentors and collaborators](https://rajivmovva.com/people) who have helped me along the way. 
+If I can be helpful, feel free to email me: [rmovva@berkeley.edu](mailto:rmovva@berkeley.edu).  
 
 ### Recently:  
--  [🔗 We released a Python package for HypotheSAEs.](https://github.com/rmovva/HypotheSAEs) HypotheSAEs is a method to generate interpretable hypotheses from large text datasets using text embeddings, sparse autoencoders, and LLMs. It's fast, cheap, and produces strong results on pretty much all datasets we've tested it on (e.g., Yelp reviews, Congressional speeches, news headlines).
+-  [🔗 We released a Python package for HypotheSAEs.](https://github.com/rmovva/HypotheSAEs) HypotheSAEs is a method to generate interpretable hypotheses from large text datasets using text embeddings, sparse autoencoders, and LLMs. It's fast, cheap, and produces strong results on the several datasets we've tested it on (e.g., news headlines, Yelp reviews, Congressional speeches).
 
 ### Selected Work  
 
