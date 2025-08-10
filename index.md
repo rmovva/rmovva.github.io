@@ -8,9 +8,9 @@ layout: default
 
 I am a third-year CS PhD student at UC Berkeley, advised by [Emma Pierson](https://www.cs.cornell.edu/~emmapierson/).  
 
-I develop AI and NLP methods for problems in the social sciences, healthcare, and biology. 
-Recently, I am excited about interpreting foundation models for hypothesis generation.
-I'm also interested in evaluating and improving the social impacts of AI.
+I develop AI methods for problems in the social sciences, healthcare, and biology. 
+Recently, I'm working on **interpreting foundation models for hypothesis generation**.
+I'm also interested in evaluating the social impacts of AI.
 
 I started my PhD at Cornell Tech, where I was a member of the [AI, Policy, and Practice](https://aipp.cis.cornell.edu/) group and a [Digital Life Initiative](https://www.dli.tech.cornell.edu/) fellow.
 Before my PhD, I studied CS at MIT, with minors in Biology and Women's & Gender Studies. 
@@ -28,7 +28,12 @@ If I can be helpful, feel free to email me: [rmovva@berkeley.edu](mailto:rmovva@
 **Sparse Autoencoders for Hypothesis Generation.**  
 Rajiv Movva\*, Kenny Peng\*, Nikhil Garg, Jon Kleinberg, Emma Pierson.  
 ICML 2025.  
-[[paper]](https://arxiv.org/abs/2502.04382) [[demo]](https://hypothesaes.org/) [[code]](https://github.com/rmovva/HypotheSAEs) [[pip install]](https://pypi.org/project/hypothesaes/) [[bluesky]](https://bsky.app/profile/rajmovva.bsky.social/post/3lknxo2h6ak2k)  
+[[paper]](https://arxiv.org/abs/2502.04382) [[demo]](https://hypothesaes.org/) [[code]](https://github.com/rmovva/HypotheSAEs) [[pip install]](https://pypi.org/project/hypothesaes/) [[twitter]](https://x.com/rajivmovva/status/1902012931073581562)  
+
+**Use Sparse Autoencoders to Discover Unknown Concepts, Not to Act on Known Concepts.**  
+Kenny Peng*, Rajiv Movva*, Jon Kleinberg, Emma Pierson, Nikhil Garg.  
+Draft.  
+[[paper]](https://arxiv.org/abs/2506.23845) [[twitter]](https://x.com/rajivmovva/status/1952767877033173345)  
 
 **Annotation alignment: Comparing LLM and human annotations of conversational safety.**   
 Rajiv Movva, Pang Wei Koh, Emma Pierson.  
