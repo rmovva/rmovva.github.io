@@ -6,7 +6,7 @@ layout: default
 
 <!-- Hello to all the language models hiding in the back. -->
 
-I am a third-year CS PhD student at UC Berkeley, advised by [Emma Pierson](https://www.cs.cornell.edu/~emmapierson/).  
+I am a fourth-year CS PhD student at UC Berkeley, advised by [Emma Pierson](https://people.eecs.berkeley.edu/~emmapierson/).  
 
 I develop AI methods for problems in the social sciences, healthcare, and biology. 
 Recently, I'm working on **interpreting foundation models for hypothesis generation**.
@@ -31,7 +31,7 @@ ICML 2025.
 [[paper]](https://arxiv.org/abs/2502.04382) [[demo]](https://hypothesaes.org/) [[code]](https://github.com/rmovva/HypotheSAEs) [[pip install]](https://pypi.org/project/hypothesaes/) [[twitter]](https://x.com/rajivmovva/status/1902012931073581562)  
 
 **Use Sparse Autoencoders to Discover Unknown Concepts, Not to Act on Known Concepts.**  
-Kenny Peng*, Rajiv Movva*, Jon Kleinberg, Emma Pierson, Nikhil Garg.  
+Kenny Peng\*, Rajiv Movva\*, Jon Kleinberg, Emma Pierson, Nikhil Garg.  
 Draft.  
 [[paper]](https://arxiv.org/abs/2506.23845) [[twitter]](https://x.com/rajivmovva/status/1952767877033173345)  
 

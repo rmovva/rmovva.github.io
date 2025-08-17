@@ -30,6 +30,5 @@ Before grad school, I learned everything I knew from extremely generous students
 
 
 ### Mentees
-
-None yet, but I hope this list will grow soon :)
+- [Vatsal Baherwani](https://vatsal0.github.io/) [2025, UC Berkeley]
 
