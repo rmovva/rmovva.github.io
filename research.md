@@ -6,6 +6,11 @@ layout: default
 
 Full list available on [[Google Scholar]](https://scholar.google.com/citations?user=OLbbUjcAAAAJ&hl=en). Asterisks\* denote co-first authorship.  
 
+**What's In My Human Feedback? Learning Interpretable Descriptions of Preference Data**  
+Rajiv Movva, Smitha Milli, Sewon Min, Emma Pierson.  
+Preprint.  
+[[paper]](https://arxiv.org/abs/2510.26202) [[demo]](https://rajivmovva.com/demo-wimhf/) [[code]](https://github.com/rmovva/wimhf)  
+
 **Sparse Autoencoders for Hypothesis Generation.**  
 Rajiv Movva\*, Kenny Peng\*, Nikhil Garg, Jon Kleinberg, Emma Pierson.  
 ICML 2025.  
