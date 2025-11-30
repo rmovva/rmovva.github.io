@@ -6,24 +6,20 @@ layout: default
 
 <!-- Hello to all the language models hiding in the back. -->
 
-I am a fourth-year CS PhD student at [Berkeley AI](https://bair.berkeley.edu/), advised by [Emma Pierson](https://people.eecs.berkeley.edu/~emmapierson/).  
+I am a fourth-year CS PhD student at [Berkeley AI](https://bair.berkeley.edu/), advised by [Emma Pierson](https://people.eecs.berkeley.edu/~emmapierson/) and supported by the NSF GRFP.  
 
-I work on **human-centered AI for science**: new methods that leverage foundation models to advance how researchers conduct science. Recent projects include:
-- [HypotheSAEs](https://arxiv.org/abs/2502.04382), an approach to generate hypotheses from labeled text datasets, designed for social science research.
-- [What's In My Human Feedback?](https://arxiv.org/abs/2510.26202), a tool for LLM researchers to understand what's encoded in human feedback data, enabling better post-training.
+I work on **human-centered AI for science**: methods that leverage foundation models to advance how researchers conduct science. I use tools from interpretability to build these methods, as in my recent projects:
+- [HypotheSAEs](https://arxiv.org/abs/2502.04382), an SAE-based approach to generate hypotheses from text datasets, designed for social science research.  
+- [What's In My Human Feedback?](https://arxiv.org/abs/2510.26202), a tool for LLM researchers to understand what's encoded in human feedback data, enabling better post-training.  
 
-More generally, I'm very excited about applications involving biomedicine, social science, and the social impacts of AI.
+When applying these methods, I'm drawn to problems involving biomedicine, social science, and the societal impacts of AI.  
 
-Previously, I started my PhD at Cornell Tech, where I was a member of the [AI, Policy, and Practice](https://aipp.cis.cornell.edu/) group and a [Digital Life Initiative](https://www.dli.tech.cornell.edu/) fellow.
-Before my PhD, I studied CS at MIT, with minors in Biology and Women's & Gender Studies. 
-I worked with [Catherine D'Ignazio](https://dataplusfeminism.mit.edu/), [Michael Carbin](https://people.csail.mit.edu/mcarbin/), and [Anshul Kundaje](https://profiles.stanford.edu/anshul-kundaje).
+Previously: I did my undergrad in CS at MIT, where I worked with [Catherine D'Ignazio](https://dataplusfeminism.mit.edu/), [Michael Carbin](https://people.csail.mit.edu/mcarbin/), and [Anshul Kundaje](https://profiles.stanford.edu/anshul-kundaje). I've interned at [Microsoft Research](https://www.microsoft.com/en-us/research/theme/fate/), [Apple ML](https://machinelearning.apple.com/), [NVIDIA](https://www.nvidia.com/en-us/research/), and [Genesis Therapeutics](https://genesis.ml/).
 
-I write sporadically on my [blog](https://rajivmovva.com/blog) and [Substack](https://rajmovva.substack.com/). 
-I am grateful to all the [mentors and collaborators](https://rajivmovva.com/people) who have helped me along the way. 
-If I can be helpful, feel free to email me: [rmovva@berkeley.edu](mailto:rmovva@berkeley.edu). 
+[[📧 rmovva@berkeley.edu]](mailto:rmovva@berkeley.edu) [[🎓 google scholar]](https://scholar.google.com/citations?user=OLbbUjcAAAAJ) [[🐙 rmovva]](https://github.com/rmovva) [[🐦 rajivmovva]](https://x.com/rajivmovva) [[👯 my collaborators & mentors]](https://rajivmovva.com/people)
 
 ### Recently:  
--  [🔗 We released a Python package for HypotheSAEs.](https://github.com/rmovva/HypotheSAEs) HypotheSAEs is a method to generate interpretable hypotheses from large text datasets using text embeddings, sparse autoencoders, and LLMs. It's fast, cheap, and produces strong results on the several datasets we've tested it on (e.g., news headlines, Yelp reviews, Congressional speeches).
+-  [🔗 We released a Python package for HypotheSAEs.](https://github.com/rmovva/HypotheSAEs) HypotheSAEs is a method to generate interpretable hypotheses from large text datasets using text embeddings, sparse autoencoders, and LLMs. It's fast, cheap, and outperforms prompting/clustering/etc. on a variety of datasets (e.g., news headlines, Yelp reviews, Congressional speeches).
 
 ### Selected Work  
 
