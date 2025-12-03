@@ -14,7 +14,7 @@ I work on **human-centered AI for science**: methods that leverage foundation mo
 
 When applying these methods, I'm drawn to problems involving biomedicine, social science, and the societal impacts of AI.  
 
-Previously: I did my undergrad in CS at MIT, where I worked with [Catherine D'Ignazio](https://dataplusfeminism.mit.edu/), [Michael Carbin](https://people.csail.mit.edu/mcarbin/), and [Anshul Kundaje](https://profiles.stanford.edu/anshul-kundaje). I've interned at [Microsoft Research](https://www.microsoft.com/en-us/research/theme/fate/), [Apple ML](https://machinelearning.apple.com/), [NVIDIA](https://www.nvidia.com/en-us/research/), and [Genesis Therapeutics](https://genesis.ml/).
+Previously: I did my undergrad in CS at MIT, and worked with [Catherine D'Ignazio](https://dataplusfeminism.mit.edu/), [Michael Carbin](https://people.csail.mit.edu/mcarbin/), and [Anshul Kundaje](https://profiles.stanford.edu/anshul-kundaje). I've interned at [Microsoft Research](https://www.microsoft.com/en-us/research/theme/fate/), [Apple ML](https://machinelearning.apple.com/), [NVIDIA](https://www.nvidia.com/en-us/research/), and [Genesis Therapeutics](https://genesis.ml/).
 
 [[📧 rmovva@berkeley.edu]](mailto:rmovva@berkeley.edu) [[🎓 google scholar]](https://scholar.google.com/citations?user=OLbbUjcAAAAJ) [[🐙 rmovva]](https://github.com/rmovva) [[🐦 rajivmovva]](https://x.com/rajivmovva) [[👯 my collaborators & mentors]](https://rajivmovva.com/people)
 
