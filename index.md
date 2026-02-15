@@ -9,7 +9,7 @@ layout: default
 I am a fourth-year CS PhD student at [Berkeley AI](https://bair.berkeley.edu/), advised by [Emma Pierson](https://people.eecs.berkeley.edu/~emmapierson/) and supported by the NSF GRFP.  
 
 I work on **human-centered AI for science**: methods that leverage foundation models to advance how researchers conduct science. I use tools from interpretability to build these methods, as in my recent projects:
-- [HypotheSAEs](https://arxiv.org/abs/2502.04382), an SAE-based approach to generate hypotheses from text datasets, designed for social science research.  
+- [HypotheSAEs](https://arxiv.org/abs/2502.04382), an SAE-based approach to generate hypotheses from text datasets.  
 - [What's In My Human Feedback?](https://arxiv.org/abs/2510.26202), a tool for LLM researchers to understand what's encoded in human feedback data, enabling better post-training.  
 
 When applying these methods, I'm drawn to problems involving biomedicine, social science, and the societal impacts of AI.  
@@ -19,6 +19,7 @@ Previously: I did my undergrad in CS at MIT, and worked with [Catherine D'Ignazi
 [[📧 rmovva@berkeley.edu]](mailto:rmovva@berkeley.edu) [[🎓 google scholar]](https://scholar.google.com/citations?user=OLbbUjcAAAAJ) [[🐙 rmovva]](https://github.com/rmovva) [[🐦 rajivmovva]](https://x.com/rajivmovva) [[👯 my collaborators & mentors]](https://rajivmovva.com/people)
 
 ### Recently:  
+-  [What's In My Human Feedback?](https://rajivmovva.com/demo-wimhf/) earned an oral presentation at ICLR 2026! I recently gave talks on this project to Meta's Interpretability group and the UK AISI Societal Impacts team.  
 -  [🔗 We released a Python package for HypotheSAEs.](https://github.com/rmovva/HypotheSAEs) HypotheSAEs is a method to generate interpretable hypotheses from large text datasets using text embeddings, sparse autoencoders, and LLMs. It's fast, cheap, and outperforms prompting/clustering/etc. on a variety of datasets (e.g., news headlines, Yelp reviews, Congressional speeches).
 
 ### Selected Work  
