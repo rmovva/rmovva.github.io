@@ -2,17 +2,18 @@
 layout: default
 ---
 
-<img class="profile-picture" src="images/profile2.jpg">
+<img class="profile-picture" src="images/profile.jpg">
 
 <!-- Hello to all the language models hiding in the back. -->
 
 I am a fourth-year CS PhD student at [Berkeley AI](https://bair.berkeley.edu/), advised by [Emma Pierson](https://people.eecs.berkeley.edu/~emmapierson/) and supported by the NSF GRFP.  
 
-I work on **human-centered AI for science**: methods that leverage foundation models to advance how researchers conduct science. I use tools from interpretability to build these methods, as in my recent projects:
-- [HypotheSAEs](https://arxiv.org/abs/2502.04382), an SAE-based approach to generate hypotheses from text datasets.  
-- [What's In My Human Feedback?](https://arxiv.org/abs/2510.26202), a tool for LLM researchers to understand what's encoded in human feedback data, enabling better post-training.  
+I work on two broad topics: (i) using **foundation models for scientific discovery** and (ii) improving **AI safety and fairness**. I believe that progress in these two areas will help maximize the positive societal impacts of AI.  
 
-When applying these methods, I'm drawn to problems involving biomedicine, social science, and the societal impacts of AI.  
+My recent work develops **interpretability methods** to advance these goals:  
+- [HypotheSAEs](https://arxiv.org/abs/2502.04382), an SAE-based approach to generate hypotheses from text datasets.  
+- [What's In My Human Feedback?](https://arxiv.org/abs/2510.26202), a tool for LLM researchers to understand what's encoded in human feedback data, enabling better post-training and alignment.  
+- Ongoing work on interpreting medical foundation models to discover biomarkers that doctors miss.    
 
 Previously: I did my undergrad in CS at MIT, and worked with [Catherine D'Ignazio](https://dataplusfeminism.mit.edu/), [Michael Carbin](https://people.csail.mit.edu/mcarbin/), and [Anshul Kundaje](https://profiles.stanford.edu/anshul-kundaje). I've interned at [Microsoft Research](https://www.microsoft.com/en-us/research/theme/fate/), [Apple ML](https://machinelearning.apple.com/), [NVIDIA](https://www.nvidia.com/en-us/research/), and [Genesis Therapeutics](https://genesis.ml/).
 
