@@ -11,6 +11,7 @@ I'm lucky to have learned from so many nice people. Each of these individuals ha
 - [Anshul Kundaje](https://kundajelab.github.io/) [2017-18, Stanford]
 
 ### Collaborators
+- [Ziad Obermeyer](https://ziadobermeyer.com/) [2025-present]
 - [Smitha Milli](https://smithamilli.com/) [2025]
 - [Kenny Peng](https://kennypeng.me/) [2024-25]
 - [Pang Wei Koh](https://koh.pw/) [2023-24]

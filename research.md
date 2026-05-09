@@ -6,9 +6,15 @@ layout: default
 
 Full list available on [[Google Scholar]](https://scholar.google.com/citations?user=OLbbUjcAAAAJ&hl=en). Asterisks\* denote co-first authorship.  
 
+**Position: Use Sparse Autoencoders to Discover Unknown Concepts**  
+Kenny Peng\*, Rajiv Movva\*, Jon Kleinberg, Emma Pierson, Nikhil Garg.  
+ICML 2026  
+[[paper]](https://arxiv.org/abs/2506.23845) [[twitter]](https://x.com/rajivmovva/status/1952767877033173345)  
+
 **What's In My Human Feedback? Learning Interpretable Descriptions of Preference Data**  
 Rajiv Movva, Smitha Milli, Sewon Min, Emma Pierson.  
-Preprint.  
+ICLR 2026  
+<span style="color:#CC5500">**Oral presentation**</span> (top 1% of submissions)  
 [[paper]](https://arxiv.org/abs/2510.26202) [[demo]](https://rajivmovva.com/demo-wimhf/) [[code]](https://github.com/rmovva/wimhf)  
 
 **Sparse Autoencoders for Hypothesis Generation.**  
@@ -65,7 +71,7 @@ COLING 2022.
 [[paper]](https://aclanthology.org/2022.coling-1.252/) [[twitter]](https://twitter.com/rajivmovva/status/1574444670104526848)  
 
 
-**Dissecting Lottery Ticket Transformers: Structural and Behavorial Study of Sparse Neural Machine Translation.**   
+**Dissecting Lottery Ticket Transformers: Structural and Behavioral Study of Sparse Neural Machine Translation.**   
 Rajiv Movva and Jason Zhao.  
 BlackboxNLP @ EMNLP 2020.  
 🏆 <span style="color:#CC5500">Best Paper</span> 🏆   

@@ -31,15 +31,15 @@ ICLR 2026
 <span style="color:#CC5500">**Oral presentation**</span> (top 1% of submissions)  
 [[paper]](https://arxiv.org/abs/2510.26202) [[demo]](https://rajivmovva.com/demo-wimhf/) [[code]](https://github.com/rmovva/wimhf)  
 
+**Position: Use Sparse Autoencoders to Discover Unknown Concepts**  
+Kenny Peng\*, Rajiv Movva\*, Jon Kleinberg, Emma Pierson, Nikhil Garg.  
+ICML 2026  
+[[paper]](https://arxiv.org/abs/2506.23845) [[twitter]](https://x.com/rajivmovva/status/1952767877033173345)  
+
 **Sparse Autoencoders for Hypothesis Generation**  
 Rajiv Movva\*, Kenny Peng\*, Nikhil Garg, Jon Kleinberg, Emma Pierson.  
 ICML 2025  
 [[paper]](https://arxiv.org/abs/2502.04382) [[demo]](https://hypothesaes.org/) [[code]](https://github.com/rmovva/HypotheSAEs) [[pip install]](https://pypi.org/project/hypothesaes/) [[twitter]](https://x.com/rajivmovva/status/1902012931073581562)  
-
-**Use Sparse Autoencoders to Discover Unknown Concepts, Not to Act on Known Concepts**  
-Kenny Peng\*, Rajiv Movva\*, Jon Kleinberg, Emma Pierson, Nikhil Garg.  
-Preprint  
-[[paper]](https://arxiv.org/abs/2506.23845) [[twitter]](https://x.com/rajivmovva/status/1952767877033173345)  
 
 **Annotation alignment: Comparing LLM and human annotations of conversational safety**   
 Rajiv Movva, Pang Wei Koh, Emma Pierson.  
@@ -63,7 +63,7 @@ FAccT 2022
 <span style="color:#CC5500">**Best student paper**</span>  
 [[paper]](https://dl.acm.org/doi/10.1145/3531146.3533132) [[twitter]](https://twitter.com/rajivmovva/status/1539172168269012992)  
 
-**Dissecting Lottery Ticket Transformers: Structural and Behavorial Study of Sparse Neural Machine Translation**   
+**Dissecting Lottery Ticket Transformers: Structural and Behavioral Study of Sparse Neural Machine Translation**   
 Rajiv Movva and Jason Zhao.  
 BlackboxNLP @ EMNLP 2020  
 <span style="color:#CC5500">**Best paper**</span>  
