@@ -19,20 +19,22 @@ html {
     height: 100%;
     margin: 0;
     padding: 0;
-    background-color: #fdfcff;
+    background-color: #fbfdff;
 }
 body {
     width: 100%;
     margin: auto;
     font-family: $body-font;
     height: 100%;
-    font-weight: 450;
-    line-height: 1.5;
-    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.65;
+    font-size: 16px;
+    color: #33343a;
 }
 a {
-    text-decoration: none;
     color: $accent;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.08em;
 }
 a:hover {
     text-decoration: underline;
@@ -51,13 +53,13 @@ hr {
 
 #author-name {
     font-size: 30px;
-    color: #313a3d;
+    color: #2f3b45;
     display: inline-block;
     font-weight: 600;
 }
 .navbar {
     font-size: 20px;
-    padding: 50px 0 50px 0;
+    padding: 40px 0 36px 0;
     font-family: $nav-font;
     font-weight: 600;
 }
@@ -130,10 +132,10 @@ hr {
     #main-page-blogs-list {
         display: block;
     }
-	.navbar {
-		text-align: center;
-		padding: 50px 0px 0px 0px;
-	}
+		.navbar {
+			text-align: center;
+			padding: 40px 0px 0px 0px;
+		}
 	#author-name {
 		width: 100%;
 		float: none;
