@@ -8,9 +8,9 @@ layout: default
 
 I am a fourth-year CS PhD student at [Berkeley AI](https://bair.berkeley.edu/), advised by [Emma Pierson](https://people.eecs.berkeley.edu/~emmapierson/) and supported by the NSF GRFP.  
 
-I work on two broad topics: (i) using **foundation models for scientific discovery** and (ii) improving **AI safety and fairness**. I believe that progress in these two areas will help maximize the positive societal impacts of AI.  
+I work on two broad topics: (i) **AI for scientific discovery** and (ii) **AI safety and fairness**. I believe that progress in these two areas will help maximize the positive societal impacts of AI.  
 
-My recent work develops **interpretability methods** to advance these goals:  
+My recent work develops **data-centric interpretability methods** to advance these goals:  
 - [HypotheSAEs](https://arxiv.org/abs/2502.04382), an SAE-based approach to generate hypotheses from text datasets.  
 - [What's In My Human Feedback?](https://arxiv.org/abs/2510.26202), a tool for LLM researchers to understand what's encoded in human feedback data, enabling better post-training and alignment.  
 - Ongoing work on interpreting medical foundation models to discover biomarkers that doctors miss.    
