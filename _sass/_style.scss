@@ -63,6 +63,10 @@ hr {
     font-family: $nav-font;
     font-weight: 600;
 }
+.navbar a,
+#author-name {
+    text-decoration: none;
+}
 .navbar-ul {
     display: inline-block;
     margin: 0;
