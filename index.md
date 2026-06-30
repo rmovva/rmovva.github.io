@@ -6,22 +6,21 @@ layout: default
 
 <!-- Hello to all the language models hiding in the back. -->
 
-I am a fourth-year CS PhD student at [Berkeley AI](https://bair.berkeley.edu/), advised by [Emma Pierson](https://people.eecs.berkeley.edu/~emmapierson/) and supported by the NSF GRFP.  
+I am wrapping up my PhD at [Berkeley AI](https://bair.berkeley.edu/), where I am advised by [Emma Pierson](https://people.eecs.berkeley.edu/~emmapierson/) and supported by the NSF GRFP.
 
-I work on two broad topics: (i) **AI for scientific discovery** and (ii) **AI safety and fairness**. I believe that progress in these two areas will help maximize the positive societal impacts of AI.  
+My goal is to build AI that is (i) safe and aligned and (ii) accelerates science, especially in medicine and biology. To these ends, my PhD focused on two topics: LLM post-training, and interpretability-guided scientific discovery. Some work I'm proud of:
 
-My recent work develops **data-centric interpretability methods** to advance these goals:  
-- [HypotheSAEs](https://arxiv.org/abs/2502.04382), an SAE-based approach to generate hypotheses from text datasets.  
-- [What's In My Human Feedback?](https://arxiv.org/abs/2510.26202), a tool for LLM researchers to understand what's encoded in human feedback data, enabling better post-training and alignment.  
-- Ongoing work on interpreting medical foundation models to discover biomarkers that doctors miss.    
+1. [HypotheSAEs](https://arxiv.org/abs/2502.04382): we train SAEs on embeddings to generate scientific hypotheses from text datasets.
+2. [What's In My Human Feedback](https://arxiv.org/abs/2510.26202): we automatically learn latent preferences encoded in human feedback, enabling more robust and controllable RLHF.
+3. Work in progress: we interpret medical foundation models to learn patterns in complex data that doctors miss. 
 
-Previously: I did my undergrad in CS at MIT, and worked with [Catherine D'Ignazio](https://dataplusfeminism.mit.edu/), [Michael Carbin](https://people.csail.mit.edu/mcarbin/), and [Anshul Kundaje](https://profiles.stanford.edu/anshul-kundaje). I've interned at [Microsoft Research](https://www.microsoft.com/en-us/research/theme/fate/), [Apple ML](https://machinelearning.apple.com/), [NVIDIA](https://www.nvidia.com/en-us/research/), and [Genesis Therapeutics](https://genesis.ml/).
+Previously: I did my undergrad in CS at MIT, and worked with [Catherine D'Ignazio](https://dataplusfeminism.mit.edu/), [Michael Carbin](https://people.csail.mit.edu/mcarbin/), and [Anshul Kundaje](https://profiles.stanford.edu/anshul-kundaje). I've interned at [Microsoft Research](https://www.microsoft.com/en-us/research/theme/fate/), [Apple ML](https://machinelearning.apple.com/), [NVIDIA](https://www.nvidia.com/en-us/research/), and [Genesis Therapeutics](https://genesis.ml/). I'm deeply passionate about biology, though I haven't worked on it as much lately.
 
 [[📧 rmovva@berkeley.edu]](mailto:rmovva@berkeley.edu) [[🎓 google scholar]](https://scholar.google.com/citations?user=OLbbUjcAAAAJ) [[🐙 rmovva]](https://github.com/rmovva) [[🐦 rajivmovva]](https://x.com/rajivmovva) [[👯 my collaborators & mentors]](https://rajivmovva.com/people)
 
-### Recently:  
+<!-- ### Recently:  
 -  [What's In My Human Feedback?](https://rajivmovva.com/demo-wimhf/) earned an oral presentation at ICLR 2026! I recently gave talks on this project to Meta's Interpretability group and the UK AISI Societal Impacts team.  
--  [🔗 We released a Python package for HypotheSAEs.](https://github.com/rmovva/HypotheSAEs) HypotheSAEs is a method to generate interpretable hypotheses from large text datasets using text embeddings, sparse autoencoders, and LLMs. It's fast, cheap, and outperforms prompting/clustering/etc. on a variety of datasets (e.g., news headlines, Yelp reviews, Congressional speeches).
+-  [🔗 We released a Python package for HypotheSAEs.](https://github.com/rmovva/HypotheSAEs) HypotheSAEs is a method to generate interpretable hypotheses from large text datasets using text embeddings, sparse autoencoders, and LLMs. It's fast, cheap, and outperforms prompting/clustering/etc. on a variety of datasets (e.g., news headlines, Yelp reviews, Congressional speeches). -->
 
 ### Selected Work  
 
