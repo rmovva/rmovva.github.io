@@ -12,7 +12,7 @@ My goal is to build AI that is (i) safe and aligned and (ii) accelerates science
 
 1. [HypotheSAEs](https://arxiv.org/abs/2502.04382): we train SAEs on embeddings to generate scientific hypotheses from text datasets.
 2. [What's In My Human Feedback](https://arxiv.org/abs/2510.26202): we automatically learn latent preferences encoded in human feedback, enabling more robust and controllable RLHF.
-3. Work in progress: we interpret medical foundation models to learn patterns in complex data that doctors miss. 
+3. Work in progress: we interpret medical foundation models to learn biomarkers that doctors miss. 
 
 Previously: I did my undergrad in CS at MIT, and worked with [Catherine D'Ignazio](https://dataplusfeminism.mit.edu/), [Michael Carbin](https://people.csail.mit.edu/mcarbin/), and [Anshul Kundaje](https://profiles.stanford.edu/anshul-kundaje). I've interned at [Microsoft Research](https://www.microsoft.com/en-us/research/theme/fate/), [Apple ML](https://machinelearning.apple.com/), [NVIDIA](https://www.nvidia.com/en-us/research/), and [Genesis Therapeutics](https://genesis.ml/). I'm deeply passionate about biology, though I haven't worked on it as much lately.
 
