@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GenAI’s Burden of Authenticity | Raj Movva</title>
+  <meta name="description" content="GenAI’s Burden of Authenticity by Raj Movva.">
+  <link rel="stylesheet" href="/style.css">
+  <link rel="icon" href="/images/favicon.ico">
+</head>
+<body>
+  <div id="layout">
+    <aside class="sidebar">
+      <nav class="sidebar-nav">
+        <a href="/">About</a> <a href="/research.html">Research</a> <a class="active" href="/blog.html">Blog</a>
+      </nav>
+    </aside>
+
+    <main>
+      <article class="post-page">
+        <h2>GenAI’s Burden of Authenticity</h2>
+        <p><em>2024-11-08</em></p>
+        <p>In 11th grade, I sent several emails to local professors begging to intern in their research labs for the summer. These weren’t good emails. Littered with flowery adjectives about what I wanted to delve into for the summer, most emails unsurprisingly went unread. And yet a couple professors read them and replied, even commending my effort in putting down whatever half-baked ideas they had to parse through. </p>
+<p>I don’t think this strategy works anymore, and large language models are at least partially to blame. I recently received an email from a high school student asking to do research with me. On the surface, the email sounded personal, with mentions of my papers and follow-up ideas. On closer look, there were suspicious signs of AI-generatedness: the email’s structure was familiarly formulaic, and the descriptions of ideas were vague and over-the-top. Of course, misguided emails from young students are nothing new; there is no way I can really be sure whether they used ChatGPT or not. But the existence of that possibility means that my reaction to these emails feels different now in 2024, compared to just two years ago. The fact that cold emails <em>could</em> be AI-generated casts doubt on the whole enterprise.</p>
+<p>In their commentary on deepfakes, Robert Chesney and Danielle Citron forecast a similar dynamic<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>. As the public becomes more aware of deepfakes, they note that people “will be primed to doubt the authenticity of real audio and video evidence” (1785). This skepticism can be exploited by bad actors to sow distrust in real events, to their benefit; consider, for example, a clip which paints a politician in a bad light. The spread of deepfakes—or more precisely, the public’s belief that deepfakes are everywhere—creates a <em>liar’s dividend</em>. The liar’s dividend is the value that liars gain from the presence and awareness of deepfakes.</p>
+<p>While both trends rely on the shifting public perception of AI, the situation I point out ends up harming innocent actors, rather than benefiting an adversarial actor. At least currently, those who use AI for tasks like writing essays, applications, and emails are at a competitive disadvantage. While they may achieve a more personally preferable effort-reward tradeoff, their rewards are modest: LLM-written cover letters are likely worse than the top applicants’. However, genAI users alter the ecosystem for everyone else in two ways. First, some types of content, like a 10-page essay or a Shakespearian sonnet, used to reflect some minimum amount of effort—even if the actual substance was mediocre. Now, there is no such “proof-of-work,” because generative AI can trivially produce something of the right form. Second, a corollary of genAI’s widespread accessibility is that human systems are easily flooded: a firm that used to receive one good application and one bad application per day may now receive one good application and nine bad applications, making it less likely that the good applicant will be discovered. </p>
+<p>These effects are what economists refer to as negative externalities. For example, smokers impose a negative externality on nearby bystanders due to secondhand smoke. If enough smokers exist in a community, one may feel compelled to wear a mask, a necessary burden to preserve one’s health. Similarly, as the proliferation of AI-generated content (AIGC) invites skepticism towards <em>all</em> content, nonusers of AI are saddled with the <em>burden of authenticity</em>: they must perform additional work in order to avoid the penalties of an AIGC-filled world.</p>
+<p>How does the burden of authenticity manifest for nonusers of AI? First, there is a degradation in how nonusers’ work is perceived, in particular due to the recipient’s suspicion of whether it is genuine. If one’s writing or art happens to align with the patterns that GenAI uses, the quality of their work may be falsely discounted. If I see an email with a particular structure and phrasing— ”I hope this message finds you well” and “Thank you for considering my request”—I assume it is AI-generated, even though formal emails long precede genAI. Perhaps no one is sad about the death of formal emails, but consider art: DALL-E outputs reflect some art styles (and even particular artists<sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup>) more than others, so it risks especially devaluing those styles. </p>
+<p>Second, determining whether content was produced by generative AI is far from perfect<sup id="fnref:3"><a class="footnote-ref" href="#fn:3">3</a></sup>, and so it invites bias. This mostly applies to writing. LLM detector tools themselves are often biased against non-native English speakers<sup id="fnref:4"><a class="footnote-ref" href="#fn:4">4</a></sup>, because they tend to write more structured text. But even without a detector, it is likely that whoever is looking at a piece of content may hold implicit biases about who is or isn’t likely to be using AI, and so groups like immigrants may disproportionately bear authenticity penalties.</p>
+<p>Third, for certain nonusers, there is a penalty towards learning. Consider a hobby artist whose work is currently worse than what could be produced by DALL-E. Prior to DALL-E, she may continue to create mediocre art because it is a pathway to improvement. But because GenAI inflates what can be produced with minimal effort, mediocre art is less valuable, so she may just rely on DALL-E instead. A similar pattern may show up in education, where the average high school literary analysis might well be worse than what LLMs produce. Of course, students aren’t writing essays for <em>The New Yorker</em>, but rather for pedagogical value. But if their best work would receive a lower grade than their friend’s ChatGPT essay, it’s hard to see why they wouldn’t use ChatGPT as well. Here, the burden one carries is that of others’ (or one’s own) inflated expectations, because AI raises the baseline.</p>
+<p>How do we mitigate the burden of authenticity? If an oracle could perfectly determine whether a piece of work is AIGC or not, that would help: AI-generated emails could be screened out, or teachers could assign lower grades to ChatGPT essays in order to preserve learning incentives. Whether AI emails or essays should actually be screened out is a separate question, but the oracle would at least help mitigate any unintended collateral damage imposed on AI nonusers. Algorithmic AI detectors aim to be this oracle, but they are notoriously imperfect. I think they can still be useful, especially if we coax them to produce calibrated confidence estimates (i.e., 95% of the content for which the detector outputs 95% confidence is actually AIGC). But we also want to avoid a cat-and-mouse game, where better detectors breed better detector evasion strategies.</p>
+<p>In the education example, Arvind Narayanan takes a different perspective: if an essay can be written by genAI and receive a good score, then it’s a bad evaluation<sup id="fnref:5"><a class="footnote-ref" href="#fn:5">5</a></sup>. That is, the question of whether something is AIGC or not <em>shouldn’t</em> be salient for any high-stakes decisions, because a task that can be solved by genAI is likely busywork. If the real-or-genAI question is salient, we should use a more thoughtful evaluation, which he argues would be a win overall. I worry this is wishful thinking. Calculators can do arithmetic, but arithmetic is still a necessary foundation. Even if you don’t believe that arithmetic or three-paragraph style essays are pedagogically useful, it’s only a matter of time until an LLM can complete tasks which everyone agrees are pedagogically useful.</p>
+<p>How will things play out longer term? My first prediction is that dynamics will self-correct: “the market” will figure out where there should and shouldn’t be authenticity penalties. For example, if firms begin rejecting formulaic-sounding cover letters because they imply a lack of effort, this may result in AI nonusers incurring a penalty in the short term. However, there are forces on both sides which will help things correct: firms will realize they are losing good candidates, and relax their policies; committed applicants will strategically incorporate authenticity cues to avoid being perceived as AIGC, which isn’t much more arbitrary than other factors used to evaluate candidates. </p>
+<p>My second prediction is that as AI-generated content becomes more common, the public will continue improving at sussing it out. We are still in the early stages of genAI, and there is evidence that human heuristics for detecting LLM-written text are flawed<sup id="fnref:6"><a class="footnote-ref" href="#fn:6">6</a></sup>, or that humans rate human-written text as human only modestly more often than GPT-4 text<sup id="fnref:7"><a class="footnote-ref" href="#fn:7">7</a></sup>. But even these two studies, separated by about a year and one GPT generation, demonstrate that we might be outpacing AI: the public’s ability to identify human-written text has improved. We also aren’t alone, as community forums like Reddit<sup id="fnref:8"><a class="footnote-ref" href="#fn:8">8</a></sup> and crowdsourcing methods like Community Notes<sup id="fnref:9"><a class="footnote-ref" href="#fn:9">9</a></sup> will help the truth bubble to the surface. That is, the oracle might not be a detection algorithm but rather our collective knowledge, and this too can dampen the adverse impacts of AIGC. Notably, more reliable detection would reduce both the liar’s dividend and the burden of authenticity.</p>
+<p>What’s certain is that GenAI will uproot our preconceptions of which content deserves value. It’s helpful to remember that we humans have the agency to decide how that happens.</p>
+<p><em>Thanks to Kenny Peng and Myra Cheng for helpful thoughts on this essay.</em></p>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>Chesney, Robert and Citron, Danielle. "Deep Fakes: A Looming Challenge for Privacy, Democracy, and National Security." California Law Review, 2019. <a href="https://ssrn.com/abstract=3213954">[Link]</a>&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+<li id="fn:2">
+<p>Heikkilä, Melissa. "This artist is dominating AI-generated art. And he’s not happy about it." MIT Technology Review, September 16, 2022. <a href="https://www.technologyreview.com/2022/09/16/1059598/this-artist-is-dominating-ai-generated-art-and-hes-not-happy-about-it/">[Link]</a>&#160;<a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">&#8617;</a></p>
+</li>
+<li id="fn:3">
+<p>Elkhatat, Ahmed M., Elsaid, Khaled, and Almeer, Saeed. "Evaluating the Efficacy of AI Content Detection Tools." International Journal for Educational Integrity, December 2023. <a href="https://doi.org/10.1007/s40979-023-00140-5">[Link]</a>&#160;<a class="footnote-backref" href="#fnref:3" title="Jump back to footnote 3 in the text">&#8617;</a></p>
+</li>
+<li id="fn:4">
+<p>"AI-Detectors Biased Against Non-Native English Writers." Stanford HAI, May 15, 2023. <a href="https://hai.stanford.edu/news/ai-detectors-biased-against-non-native-english-writers">[Link]</a>&#160;<a class="footnote-backref" href="#fnref:4" title="Jump back to footnote 4 in the text">&#8617;</a></p>
+</li>
+<li id="fn:5">
+<p>Narayanan, Arvind. "Students Are Acing Their Homework by Turning in Machine-Generated Essays. Good." March 20, 2023. <a href="https://www.aisnakeoil.com/p/students-are-acing-their-homework">Link</a>&#160;<a class="footnote-backref" href="#fnref:5" title="Jump back to footnote 5 in the text">&#8617;</a></p>
+</li>
+<li id="fn:6">
+<p>Jakesch, Maurice, Hancock, Jeffrey T., and Naaman, Mor. "Human Heuristics for AI-Generated Language Are Flawed." PNAS, March 14, 2023. <a href="https://doi.org/10.1073/pnas.2208839120">[Link]</a>&#160;<a class="footnote-backref" href="#fnref:6" title="Jump back to footnote 6 in the text">&#8617;</a></p>
+</li>
+<li id="fn:7">
+<p>Jones, Cameron R., and Bergen, Benjamin K. "Does GPT-4 Pass the Turing Test?" arXiv, October 31, 2023. <a href="https://arxiv.org/abs/2310.20216v2">[Link]</a>&#160;<a class="footnote-backref" href="#fnref:7" title="Jump back to footnote 7 in the text">&#8617;</a></p>
+</li>
+<li id="fn:8">
+<p><a href="https://www.reddit.com/r/OpenAI/comments/1cdo36l/whats_your_personal_tell_word_to_identify/">A Reddit thread on words that distinguish LLM-written text.</a>&#160;<a class="footnote-backref" href="#fnref:8" title="Jump back to footnote 8 in the text">&#8617;</a></p>
+</li>
+<li id="fn:9">
+<p><a href="https://communitynotes.x.com/guide/en/about/introduction">An overview of X's Community Notes.</a>&#160;<a class="footnote-backref" href="#fnref:9" title="Jump back to footnote 9 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+      </article>
+
+    </main>
+  </div>
+</body>
+</html>
