@@ -1,6 +1,5 @@
 :root {
-  --page-width: 58rem;
-  --nav-width: 7rem;
+  --page-width: 43rem;
   --content-width: 43rem;
   --text-size: 1.125rem;
   --small-gap: 0.45rem;
@@ -13,26 +12,58 @@ html {
 }
 
 body {
-  margin: 2.5rem 0 0;
+  margin: 2.5rem 0 0 2.25rem;
   padding: 0 1.25rem;
   max-width: var(--page-width);
 }
 
 #layout {
-  display: grid;
-  grid-template-columns: var(--nav-width) minmax(0, var(--content-width));
-  column-gap: 2.25rem;
-  align-items: start;
+  max-width: var(--content-width);
 }
 
-.sidebar-nav {
-  display: grid;
-  gap: var(--small-gap);
-  padding-top: 0.15rem;
+.site-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 0.35rem 1.35rem;
+  margin-bottom: 1.45rem;
 }
 
-.sidebar-nav a.active {
+.site-identity {
+  display: grid;
+  gap: 0.1rem;
+}
+
+.site-name {
+  color: inherit;
+  font-size: 1.5rem;
   font-weight: 700;
+  text-decoration: none;
+}
+
+.site-name:visited {
+  color: inherit;
+}
+
+.site-subtitle {
+  color: #555;
+  font-size: 0.85rem;
+}
+
+.site-nav {
+  padding-top: 0.3rem;
+}
+
+.site-nav a.active {
+  font-weight: 700;
+}
+
+.site-nav a + a::before {
+  content: "·";
+  display: inline-block;
+  margin: 0 0.5rem;
+  color: #333;
+  font-weight: 400;
 }
 
 main {
@@ -92,19 +123,12 @@ a:visited {
   }
 
   body {
-    margin-top: 1.25rem;
+    margin: 1.25rem 0 0;
     padding: 0 1rem;
   }
 
-  #layout {
-    display: block;
-  }
-
-  .sidebar-nav {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.75rem 1rem;
-    padding: 0 0 1.5rem;
+  .site-header {
+    margin-bottom: 1.25rem;
   }
 
   .profile-picture {
